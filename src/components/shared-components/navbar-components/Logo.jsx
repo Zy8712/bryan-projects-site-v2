@@ -13,7 +13,7 @@ export default function Logo() {
                         height={96}
                     />
                     <span className="w-36 custom-sm:w-40 custom-sm-ex:w-[240px] text-white text-xl custom-sm:text-2xl font-semibold hover:text-violet-500">
-                        Bryan's Projects
+                        Bryan&apos;s Projects
                     </span>
                 </div>
             </a>
