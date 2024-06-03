@@ -1,11 +1,24 @@
-import Image from "next/image";
+import HomeHero from "@/components/home-page-components/HomeHero";
+import TechStack from "@/components/home-page-components/TechStack";
+import ProjectSources from "@/components/home-page-components/ProjectSources";
+import SiteFeatures from "@/components/home-page-components/SiteFeatures";
+import ExternalLinks from "@/components/home-page-components/ExternalLinks";
+import ContactForm from "@/components/home-page-components/ContactForm";
 
 export default function Home() {
   return (
     <>
-      <main className="min-h-screen border-red-500 border-2 border-solid !m-0 !p-0">
+        <HomeHero />
 
-      </main>
+        <TechStack />
+
+        <ProjectSources />
+
+        <SiteFeatures />
+
+        <ExternalLinks />
+
+        <ContactForm />
     </>
   );
 }
