@@ -1,6 +1,8 @@
 import { Inter } from "next/font/google";
 import "../styles/globals.css";
 import Navbar from "../components/shared-components/Navbar";
+import Footer from "@/components/shared-components/Footer";
+import JumpToTopButton from "@/components/shared-components/JumpToTopButton";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -19,8 +21,12 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className="relative min-h-screen bg-custom-background-2 custom-sm-ex:bg-custom-background bg-cover bg-no-repeat overflow-x-hidden overflow-y-auto !m-0 !p-0">
-        <Navbar />
-        {children}
+        <main className="w-full h-full min-h-screen bg-black bg-opacity-20 !m-0 !p-0 transition-all duration-500 ease-in-out">
+          <Navbar />
+          {children}
+          <Footer />
+          <JumpToTopButton />
+        </main>
       </body>
     </html>
   );
