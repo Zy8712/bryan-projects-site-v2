@@ -26,7 +26,7 @@ export default function HomeHero() {
                     </span>
                 </h1>
 
-                <div className="w-auto sm:w-[450px] md:w-[550px] lg:w-[700px] h-36 sm:h-auto mt-10 sm:mt-14 flex flex-col sm:flex-row justify-between sm:justify-between items-center">
+                <div className="w-auto sm:w-[480px] md:w-[550px] lg:w-[700px] h-36 sm:h-auto mt-10 sm:mt-14 flex flex-col sm:flex-row justify-between sm:justify-between items-center transition-all duration-500 ease-in-out">
 
                     <a href="/featured" className="flex justify-center items-center w-72 sm:w-auto h-16 sm:h-auto px-0 sm:px-5 py-0 sm:py-3 text-xl md:text-xl lg:text-2xl font-semibold uppercase border-white border-4 border-solid rounded-lg hover:bg-gradient-to-tr from-blue-500 to-purple-500">
                         <i className="las la-star text-3xl md:text-3xl lg:text-4xl mr-2"></i>
@@ -37,6 +37,7 @@ export default function HomeHero() {
                         <i className="las la-compass text-3xl md:text-3xl lg:text-4xl mr-2"></i>
                         Explore All
                     </a>
+
                 </div>
 
                 <div className="absolute z-50 bottom-4 xl:hidden">

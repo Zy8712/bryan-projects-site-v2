@@ -11,9 +11,6 @@ module.exports = {
         'light-gray': 'hsl(217, 12%, 63%)',
         'very-dark-blue': 'hsl(216, 12%, 8%)',
 
-        'translucent-black': 'rgba(0, 0, 0, 0.15)',
-
-
         'translucent-white': 'rgba(255,255,255,0.55)',
         'translucent-white-2': 'rgba(255,255,255,0.15)',
 

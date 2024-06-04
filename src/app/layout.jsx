@@ -1,10 +1,7 @@
-import { Inter } from "next/font/google";
-import "../styles/globals.css";
-import Navbar from "../components/shared-components/Navbar";
+import "@/styles/globals.css";
+import Navbar from "@/components/shared-components/Navbar";
 import Footer from "@/components/shared-components/Footer";
 import JumpToTopButton from "@/components/shared-components/JumpToTopButton";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Create Next App",
@@ -20,8 +17,8 @@ export default function RootLayout({ children }) {
           href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
         />
       </head>
-      <body className="relative min-h-screen bg-custom-background-2 custom-sm-ex:bg-custom-background bg-cover bg-no-repeat overflow-x-hidden overflow-y-auto !m-0 !p-0">
-        <main className="w-full h-full min-h-screen bg-black bg-opacity-20 !m-0 !p-0 transition-all duration-500 ease-in-out">
+      <body className="relative min-h-screen bg-custom-background bg-cover bg-no-repeat overflow-x-hidden overflow-y-auto !m-0 !p-0">
+        <main className="w-full h-full min-h-screen bg-black bg-opacity-20 !m-0 !p-0">
           <Navbar />
           {children}
           <Footer />
