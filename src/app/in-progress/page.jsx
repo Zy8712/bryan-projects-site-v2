@@ -1,6 +1,5 @@
-// pages/Completed.jsx
-import ProjSectionPageLayout from "@/layouts/ProjSectionPageLayout";
-import ProjSectionPageTitle from "@/layouts/ProjSectionPageTitle";
+import ProjSectionPageLayout from "../../content-layouts/ProjSectionPageLayout";
+import ProjSectionPageTitle from "../../content-layouts/ProjSectionPageTitle";
 
 export default function In_Progress() {
     return (
