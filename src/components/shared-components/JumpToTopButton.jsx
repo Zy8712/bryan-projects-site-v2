@@ -1,7 +1,7 @@
 'use client'
 import React, { useState, useEffect } from 'react';
 
-const JumpToTopButton = () => {
+export default function JumpToTopButton(){
   const [isVisible, setIsVisible] = useState(false);
 
   // Function to handle the scroll event
@@ -37,5 +37,3 @@ const JumpToTopButton = () => {
     </button>
   );
 };
-
-export default JumpToTopButton;
