@@ -36,3 +36,29 @@ html::-webkit-scrollbar-thumb {
     background-image: -webkit-gradient(linear, left bottom, left top, color-stop(.5, white), color-stop(1, navy));
     border-radius: 10px;
 }
+
+.link-custom {
+    position: relative;
+}
+
+.link-custom::after {
+    content: "";
+    width: 0%;
+    /* animate the underline */
+    height: 2px;
+    background-color: #96C8FB;
+    position: absolute;
+    left: 0;
+    top: 105%;
+    transition: all 0.4s;
+    /* animate the underline */
+}
+
+/* animate the underline */
+.link-custom:hover::after {
+    width: 100%;
+}
+
+.link-custom:hover {
+    color: #96C8FB;
+}
