@@ -16,6 +16,14 @@ export default function In_Progress() {
                 <ProjectCardContainer>
                     <RenderInProgress />
                 </ProjectCardContainer>
+
+                <ProjSectionPageTitle>
+                    On Hold
+                </ProjSectionPageTitle>
+
+                <ProjectCardContainer>
+                    <RenderInProgress />
+                </ProjectCardContainer>
             </ProjSectionPageLayout>
         </>
     );
