@@ -1,7 +1,7 @@
 export default function ProjectWorkLinks(props) {
     return (
         <>
-            <div className="w-full h-[50px] flex absolute bottom-0 px-8">
+            <div className="w-full h-[50px] flex absolute bottom-0 px-5 sm:px-8">
 
                 <div className="w-1/4 h-full flex justify-start items-center ">
                     <a className="link-custom" href={''} target="_blank">
