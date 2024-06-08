@@ -57,6 +57,13 @@ export default function ProjectDetails(props) {
                                 width={24}
                                 height={24}
                             />
+                            <Image
+                                src="/icons/project-source-icons/tapioca-logo.png"
+                                alt="frontendpro_icon"
+                                className={`${props.source == 6 ? 'inline' : 'hidden'} rounded-full`}
+                                width={24}
+                                height={24}
+                            />
                         </a>
                     </div>
                 </div>
