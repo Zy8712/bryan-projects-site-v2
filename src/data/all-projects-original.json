@@ -1,14 +1,12 @@
 [
     {
-        "id": "BL-ARCH-STUDIO-MULTI-PAGE-WEBSITE-01",
         "name": "Arch Studio Multi Page Website",
         "date": "April 24th, 2024",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 4,
-        "featured": false,
+        "fem_difficulty": 4,
+        "preview_image": "/project-previews/fem-advanced-previews/archstudiomultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": false,
@@ -29,15 +27,6 @@
             "postgesql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/arch-studio-website",
             "website_preview_link": "https://arch-studio-website-green.vercel.app/",
@@ -45,15 +34,13 @@
         }
     },
     {
-        "id": "BL-IPHONE-15-LANDING-PAGE-CLONE-01",
         "name": "iPhone 15 Landing Page Clone",
         "date": "April 10th, 2023",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 5,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/iphone15plandingpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -74,15 +61,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/iphone15plandingpage-desktop-preview.png",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/iphone15-landing-page",
             "website_preview_link": "https://iphone15-landing-page.vercel.app/",
@@ -90,15 +68,13 @@
         }
     },
     {
-        "id": "BL-RECIPE-PAGE-01",
         "name": "Recipe Page",
         "date": "April 8th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/recipepage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -118,15 +94,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/recipe-page/recipepage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/recipe-page/my-work",
@@ -135,15 +102,13 @@
         }
     },
     {
-        "id": "BL-SOCIAL-LINKS-PROFILE-01",
         "name": "Social Links Profile",
         "date": "April 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/sociallinksprofile-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -164,15 +129,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/social-links-profile/sociallinksprofile-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/social-links-profile/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/social-links-profile/my-work/index.html",
@@ -180,15 +136,13 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-05",
         "name": "3 Column Preview Card Component",
         "date": "April 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 5,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -209,15 +163,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/vue-frontend-projects/blob/main/src/pages/3-column-preview-card-component-vue-v1.vue",
             "website_preview_link": "https://vue-frontend-projects.vercel.app/3-column-preview-card-component-vue-v1",
@@ -225,15 +170,13 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-06",
         "name": "QR Code Component",
         "date": "April 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 6,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -254,15 +197,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/vue-frontend-projects/blob/main/src/pages/qr-code-component-vue-v1.vue",
             "website_preview_link": "https://vue-frontend-projects.vercel.app/qr-code-component-vue-v1",
@@ -270,15 +204,13 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-04",
         "name": "3 Column Preview Card Component",
         "date": "April 6th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 4,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -298,15 +230,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/astro-frontend-projects/blob/main/src/pages/3-column-preview-card-component-astro-v1.astro",
@@ -315,15 +238,13 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-05",
         "name": "QR Code Component",
         "date": "April 6th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 5,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -344,15 +265,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/astro-frontend-projects/blob/main/src/pages/qr-code-component-astro-v1.astro",
             "website_preview_link": "https://astro-frontend-projects.vercel.app/qr-code-component-astro-v1",
@@ -360,15 +272,13 @@
         }
     },
     {
-        "id": "BL-NIKE-LANDING-PAGE-CLONE-01",
         "name": "Nike Landing Page Clone",
         "date": "March 30th, 2024",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 5,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/nikeplandingpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -389,15 +299,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/nikeplandingpage-desktop-preview.png",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/nike-landing-page",
             "website_preview_link": "https://nike-landing-page-ivory.vercel.app/",
@@ -405,15 +306,13 @@
         }
     },
     {
-        "id": "BL-BRYAN-S-PROJECTS-SITE-01",
         "name": "Bryan's Projects Site",
         "date": "March 24th, 2024",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/bryan-projects-site/bryansprojectssite-desktop-preview_1.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -433,15 +332,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/bryan-projects-site/bryansprojectssite-desktop-preview_1.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/bryan-projects-site",
@@ -450,15 +340,13 @@
         }
     },
     {
-        "id": "BL-BRYAN-S-CERTIFICATES-SITE-01",
         "name": "Bryan's Certificates Site",
         "date": "Febuary 29th, 2024",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/bryan-certificates-site/bryanscertificatessite-desktop-preview_1.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -479,15 +367,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/bryan-certificates-site/bryanscertificatessite-desktop-preview_1.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/bryan-certificates-site",
             "website_preview_link": "https://bryan-certificates-site.vercel.app/",
@@ -495,15 +374,13 @@
         }
     },
     {
-        "id": "BL-REST-COUNTRIES-API-WITH-COLOUR-THEME-SWITCHER-01",
         "name": "REST Countries API with Colour Theme Switcher",
         "date": "February 4th, 2024",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 4,
-        "featured": false,
+        "fem_difficulty": 4,
+        "preview_image": "/project-previews/fem-advanced-previews/rest-countries-website/restcountriesapiwithcolorthemeswitcher-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": false,
@@ -524,15 +401,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rest-countries-website/restcountriesapiwithcolorthemeswitcher-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/rest-countries-api-site",
             "website_preview_link": "https://rest-countries-api-site.vercel.app/",
@@ -540,15 +408,13 @@
         }
     },
     {
-        "id": "BL-LAZY-CAT-01",
         "name": "Lazy Cat",
         "date": "Febuary 1st, 2024",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/lazycat-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -569,15 +435,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/lazycat-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/RandomMiniWebProjects/tree/main/LazyCat",
             "website_preview_link": "https://lazy-cat.vercel.app/",
@@ -585,15 +442,13 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-01",
         "name": "Portfolio Site",
         "date": "Febuary 1st, 2024",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_1.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -614,15 +469,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_1.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/bryan-li",
             "website_preview_link": "https://bryanli.vercel.app/",
@@ -630,15 +476,13 @@
         }
     },
     {
-        "id": "BL-AUDIOPHILE-E-COMMERCE-WEBSITE-01",
         "name": "Audiophile E-Commerce Website",
         "date": "January 8th, 2024",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 5,
-        "featured": false,
+        "fem_difficulty": 5,
+        "preview_image": "/project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -659,15 +503,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/audiophile-ecommerce-website",
             "website_preview_link": "https://audiophilesite.vercel.app/",
@@ -675,15 +510,13 @@
         }
     },
     {
-        "id": "BL-NEXTJS-TUTORIAL-DASHBOARD-01",
         "name": "NextJS Tutorial Dashboard",
         "date": "December 28th, 2023",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/nextjsdashboard-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -704,15 +537,6 @@
             "postgresql_TF": true,
             "typescript_TF": true
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/nextjsdashboard-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/learn-nextjs/tree/main/nextjs-dashboard",
             "website_preview_link": "https://learn-nextjs-zy8712.vercel.app/",
@@ -720,15 +544,13 @@
         }
     },
     {
-        "id": "BL-BLOG-PREVIEW-CARD-01",
         "name": "Blog Preview Card",
         "date": "December 27th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/blogpreviewcard-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -748,15 +570,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/blog-preview-card/blogpreviewcard-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/blog-preview-card/my-work",
@@ -765,15 +578,13 @@
         }
     },
     {
-        "id": "BL-EXPANDED-AGE-CALC-01",
         "name": "Expanded Age Calc",
         "date": "October 21st, 2023",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/expanded-age-calc-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -793,15 +604,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/expanded-age-calc-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/age-calculator",
@@ -810,15 +612,13 @@
         }
     },
     {
-        "id": "BL-POD-REQUEST-ACCESS-LANDING-PAGE-01",
         "name": "Pod Request Access Landing Page",
         "date": "October 9th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/podrequestaccesslandingpage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -838,15 +638,6 @@
             "figma_TF": true,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/pod-request-access-landing-page/podrequestaccesslandingpage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/pod-request-access-landing-page/my-work",
@@ -855,15 +646,13 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-04",
         "name": "QR Code Component",
         "date": "October 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 4,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -884,15 +673,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/qr-code-component/my-react-work-v2",
             "website_preview_link": "",
@@ -900,15 +680,13 @@
         }
     },
     {
-        "id": "BL-ADVICE-GENERATOR-APP-03",
         "name": "Advice Generator App",
         "date": "October 6th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 3,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/advicegeneratorapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -929,15 +707,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/advice-generator-app/my-react-work-v2",
             "website_preview_link": "",
@@ -945,15 +714,13 @@
         }
     },
     {
-        "id": "BL-SPACE-TOURISM-MULTI-PAGE-WEBSITE-01",
         "name": "Space Tourism Multi-page Website",
         "date": "October 2nd, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 3,
-        "featured": false,
+        "fem_difficulty": 3,
+        "preview_image": "/project-previews/fem-intermediate-previews/space-tourism-website/spacetourismwebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -974,15 +741,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/space-tourism-website/spacetourismwebsite-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/space-tourism-website/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/space-tourism-website/my-work/index.html",
@@ -990,15 +748,13 @@
         }
     },
     {
-        "id": "BL-PING-COMING-SOON-PAGE-01",
         "name": "Ping Coming Soon Page",
         "date": "September 16th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/pingsinglecolumncomingsoonpage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1018,15 +774,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/ping-single-column-coming-soon-page/pingsinglecolumncomingsoonpage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/ping-coming-soon-page/my-work",
@@ -1035,15 +782,13 @@
         }
     },
     {
-        "id": "BL-CLIPBOARD-LANDING-PAGE-01",
         "name": "Clipboard Landing Page",
         "date": "September 14th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/clipboardlandingpage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1063,15 +808,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/clipboard-landing-page/clipboardlandingpage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/clipboard-landing-page/my-work",
@@ -1080,15 +816,13 @@
         }
     },
     {
-        "id": "BL-ROOM-HOMEPAGE-01",
         "name": "Room Homepage",
         "date": "September 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 3,
-        "featured": false,
+        "fem_difficulty": 3,
+        "preview_image": "/project-previews/fem-intermediate-previews/roomhompage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1108,15 +842,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/room-homepage/roomhomepage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/room-homepage/my-work",
@@ -1125,15 +850,13 @@
         }
     },
     {
-        "id": "BL-NEWSLETTER-SIGN-UP-FORM-WITH-SUCCESS-MESSAGE-02",
         "name": "Newsletter Sign-up Form With Success Message",
         "date": "September 3rd, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1154,15 +877,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/newsletter-signup-form-with-success-message/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/newsletter-sign-up-with-success-message/my-react-work-v1",
             "website_preview_link": "",
@@ -1170,15 +884,13 @@
         }
     },
     {
-        "id": "BL-SINGLE-PRICE-GRID-COMPONENT-02",
         "name": "Single Price Grid Component",
         "date": "August 31st, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/singlepricegridcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1199,15 +911,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/single-price-grid-component/singlepricegridcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/single-price-grid-component/my-react-work-v1",
             "website_preview_link": "",
@@ -1215,15 +918,13 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-03",
         "name": "3 Column Preview Card Component",
         "date": "August 29th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 3,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1244,15 +945,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/3-column-preview-card-component/my-react-work-v1",
             "website_preview_link": "",
@@ -1260,15 +952,13 @@
         }
     },
     {
-        "id": "BL-HUDDLE-LANDING-PAGE-WITH-ALTERNATING-FEATURE-BLOCKS-01",
         "name": "Huddle Landing Page With Alternating Feature Blocks",
         "date": "August 26th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/huddlelandingpagewithalternatingfeatureblocks-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1289,15 +979,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/huddle-landing-page-with-alternating-feature-blocks/huddlelandingpagewithalternatingfeatureblocks-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/huddle-landing-page-with-alternating-feature-blocks/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/huddle-landing-page-with-alternating-feature-blocks/my-work/index.html",
@@ -1305,15 +986,13 @@
         }
     },
     {
-        "id": "BL-ADVICE-GENERATOR-APP-02",
         "name": "Advice Generator App",
         "date": "August 14th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/advicegeneratorapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1334,15 +1013,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/advice-generator-app/my-react-work-v1",
             "website_preview_link": "",
@@ -1350,15 +1020,13 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-03",
         "name": "QR Code Component",
         "date": "August 14th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 3,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1379,15 +1047,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges-react/tree/main/qr-code-component/my-react-work-v1",
             "website_preview_link": "",
@@ -1395,15 +1054,13 @@
         }
     },
     {
-        "id": "BL-PROFILE-CARD-COMPONENT-02",
         "name": "Profile Card Component",
         "date": "August 13th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/profilecardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1424,15 +1081,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/profile-card-component/profilecardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/profile-card-component/my-work-v2-tailwindcss",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/profile-card-component/my-work-v2-tailwindcss/index.html",
@@ -1440,15 +1088,13 @@
         }
     },
     {
-        "id": "BL-ROCK-PAPER-SCISSORS-GAME-01",
         "name": "Rock, Paper, Scissors Game",
         "date": "August 11th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 4,
-        "featured": false,
+        "fem_difficulty": 4,
+        "preview_image": "/project-previews/fem-advanced-previews/rockpaperscissorsgame-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1469,15 +1115,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/rock-paper-scissors/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/rock-paper-scissors/my-work/index.html",
@@ -1485,15 +1122,13 @@
         }
     },
     {
-        "id": "BL-EXPENSES-CHART-COMPONENT-01",
         "name": "Expenses Chart Component",
         "date": "August 11th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/expenseschartcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1514,15 +1149,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/expenses-chart-component/expenseschartcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/expenses-chart-component/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/expenses-chart-component/my-work/index.html",
@@ -1530,15 +1156,13 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-02",
         "name": "3 Column Preview Card Component",
         "date": "August 8th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1559,15 +1183,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/3-column-preview-card-component/my-work-v2-tailwindcss",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/3-column-preview-card-component/my-work-v2-tailwindcss/index.html",
@@ -1575,15 +1190,13 @@
         }
     },
     {
-        "id": "BL-IP-ADDRESS-TRACKER-01",
         "name": "IP Address Tracker",
         "date": "August 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 3,
-        "featured": false,
+        "fem_difficulty": 3,
+        "preview_image": "/project-previews/fem-intermediate-previews/ipaddresstracker-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1603,15 +1216,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/ip-address-tracker/ipaddresstracker-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/ip-address-tracker/my-work",
@@ -1620,15 +1224,13 @@
         }
     },
     {
-        "id": "BL-FYLO-DARK-THEME-LANDING-PAGE-01",
         "name": "Fylo Dark Theme Landing Page",
         "date": "August 5th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/fylodarkthemelandingpage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1648,15 +1250,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/fylo-dark-theme-landing-page/fylodarkthemelandingpage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/fylo-dark-theme-landing-page/my-work",
@@ -1665,15 +1258,13 @@
         }
     },
     {
-        "id": "BL-INTERACTIVE-RATING-COMPONENT-02",
         "name": "Interactive Rating Component",
         "date": "August 1st, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/interactiveratingcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1694,15 +1285,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/interactive-rating-component/interactiveratingcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/interactive-rating-component/my-work-v2-sass",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/interactive-rating-component/my-work-v2-sass/index.html",
@@ -1710,15 +1292,13 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-02",
         "name": "QR Code Component",
         "date": "July 31st, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 2,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1739,15 +1319,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/qr-code-component/my-work-v2-sass",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/qr-code-component/my-work-v2-sass/index.html",
@@ -1755,15 +1326,13 @@
         }
     },
     {
-        "id": "BL-TIP-CALCULATOR-APP-01",
         "name": "Tip Calculator App",
         "date": "July 30th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/tipcalculatorapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1784,15 +1353,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/tip-calculator-app/tipcalculatorapp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/tip-calculator-app/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/tip-calculator-app/my-work/index.html",
@@ -1800,15 +1360,13 @@
         }
     },
     {
-        "id": "BL-ADVICE-GENERATOR-APP-01",
         "name": "Advice Generator App",
         "date": "July 27th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/advicegeneratorapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1829,15 +1387,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/advice-generator-app/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/advice-generator-app/my-work/index.html",
@@ -1845,15 +1394,13 @@
         }
     },
     {
-        "id": "BL-AGE-CALCULATOR-APP-01",
         "name": "Age Calculator App",
         "date": "July 23rd, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/agecalculatorapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1873,15 +1420,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/age-calculator-app/agecalculatorapp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/age-calculator-app/my-work",
@@ -1890,15 +1428,13 @@
         }
     },
     {
-        "id": "BL-FRONTEND-MENTOR-WORK-DIRECTORY-01",
         "name": "Frontend Mentor Work Directory",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/frontend-mentor-directory-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1918,15 +1454,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/frontend-mentor-directory-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges",
@@ -1935,15 +1462,13 @@
         }
     },
     {
-        "id": "BL-DEV-TOOLS-SITE-01",
         "name": "Dev Tools Site",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/dev-tools-site-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1963,15 +1488,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/dev-tools-site-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/dev-tools-site",
@@ -1980,15 +1496,13 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V3-01",
         "name": "Portfolio Site V3",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/portfolio-site-v3-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2008,15 +1522,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/portfolio-site-v3-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/bryan-li-depreciated",
@@ -2025,15 +1530,13 @@
         }
     },
     {
-        "id": "BL-SINGLE-PRICE-GRID-COMPONENT-01",
         "name": "Single Price Grid Component",
         "date": "July 17th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/singlepricegridcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2053,15 +1556,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/single-price-grid-component/singlepricegridcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/single-price-grid-component/my-work",
@@ -2070,15 +1564,13 @@
         }
     },
     {
-        "id": "BL-FOUR-CARD-FEATURE-SECTION-01",
         "name": "Four Card Feature Section",
         "date": "July 16th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/fourcardfeaturesection-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2098,15 +1590,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/four-card-features-section/fourcardfeaturesection-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/four-card-feature-section/my-work",
@@ -2115,15 +1598,13 @@
         }
     },
     {
-        "id": "BL-NEWS-HOMEPAGE-01",
         "name": "News Homepage",
         "date": "July 14th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/newshomepage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2143,15 +1624,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/news-homepage/newshomepage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/news-homepage/my-work",
@@ -2160,15 +1632,13 @@
         }
     },
     {
-        "id": "BL-SOCIAL-PROOF-SECTION-01",
         "name": "Social Proof Section",
         "date": "July 9th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/socialproofsection-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2188,15 +1658,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/social-proof-section/socialproofsection-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/social-proof-section/my-work",
@@ -2205,15 +1666,13 @@
         }
     },
     {
-        "id": "BL-FYLO-DATA-STORAGE-COMPONENT-01",
         "name": "Fylo Data Storage Component",
         "date": "July 7th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/fylodatastoragecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2233,15 +1692,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/fylo-data-storage-component/fylodatastoragecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/fylo-data-storage-component/my-work",
@@ -2250,15 +1700,13 @@
         }
     },
     {
-        "id": "BL-TIME-TRACKING-DASHBOARD-01",
         "name": "Time Tracking Dashboard",
         "date": "July 6th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/timetrackingdashboard-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2278,15 +1726,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/time-tracking-dashboard/timetrackingdashboard-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/time-tracking-dashboard/my-work",
@@ -2295,15 +1734,13 @@
         }
     },
     {
-        "id": "BL-TESTIMONIALS-GRID-SECTION-01",
         "name": "Testimonials Grid Section",
         "date": "July 3rd, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/testimonialsgridsection-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2323,15 +1760,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/testimonials-grids-section/testimonialsgridsection-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/testimonials-grid-section/my-work",
@@ -2340,15 +1768,13 @@
         }
     },
     {
-        "id": "BL-NEWSLETTER-SIGN-UP-FORM-WITH-SUCCESS-MESSAGE-01",
         "name": "Newsletter Sign-up Form With Success Message",
         "date": "July 1st, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 2,
-        "featured": false,
+        "fem_difficulty": 2,
+        "preview_image": "/project-previews/fem-junior-previews/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2368,15 +1794,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/newsletter-signup-form-with-success-message/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/newsletter-sign-up-with-success-message/my-work",
@@ -2385,15 +1802,13 @@
         }
     },
     {
-        "id": "BL-ARTICLE-PREVIEW-COMPONENT-01",
         "name": "Article Preview Component",
         "date": "July 1st, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/articlepreviewcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2413,15 +1828,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/article-preview-component/articlepreviewcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/article-preview-component/my-work",
@@ -2430,15 +1836,13 @@
         }
     },
     {
-        "id": "BL-FAQ-ACCORDION-CARD-01",
         "name": "Faq Accordion Card",
         "date": "June 26th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/faqaccordioncard-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2458,15 +1862,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/faq-accordion-card/faqaccordioncard-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/faq-accordion-card/my-work",
@@ -2475,15 +1870,13 @@
         }
     },
     {
-        "id": "BL-STATS-PREVIEW-CARD-COMPONENT-01",
         "name": "Stats Preview Card Component",
         "date": "June 16th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/statspreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2503,15 +1896,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/stats-preview-card-component/statspreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/stats-preview-card-component/my-work",
@@ -2520,15 +1904,13 @@
         }
     },
     {
-        "id": "BL-NFT-PREVIEW-CARD-COMPONENT-01",
         "name": "NFT Preview Card Component",
         "date": "June 14th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/nftpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2548,15 +1930,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/nft-preview-card-component/nftpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/nft-preview-card-component/my-work",
@@ -2565,15 +1938,13 @@
         }
     },
     {
-        "id": "BL-PRODUCT-PREVIEW-CARD-COMPONENT-01",
         "name": "Product Preview Card Component",
         "date": "June 13th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/productpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2593,15 +1964,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/product-preview-card-component/productpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/product-preview-card-component/my-work",
@@ -2610,15 +1972,13 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-01",
         "name": "3 Column Preview Card Component",
         "date": "June 12th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2638,15 +1998,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/3-column-preview-card-component/my-work",
@@ -2655,15 +2006,13 @@
         }
     },
     {
-        "id": "BL-RESULTS-SUMMARY-COMPONENT-01",
         "name": "Results Summary Component",
         "date": "June 11th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/resultssummarycomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2683,15 +2032,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/results-summary-component/resultssummarycomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/results-summary-component/my-work",
@@ -2700,15 +2040,13 @@
         }
     },
     {
-        "id": "BL-PROFILE-CARD-COMPONENT-01",
         "name": "Profile Card Component",
         "date": "June 10th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/profilecardcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2728,15 +2066,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/profile-card-component/profilecardcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/profile-card-component/my-work",
@@ -2745,15 +2074,13 @@
         }
     },
     {
-        "id": "BL-ORDER-SUMMARY-COMPONENT-01",
         "name": "Order Summary Component",
         "date": "June 9th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/ordersummarycomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2774,15 +2101,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/order-summary-component/ordersummarycomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/order-summary-component/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/order-summary-component/my-work/index.html",
@@ -2790,15 +2108,13 @@
         }
     },
     {
-        "id": "BL-INTERACTIVE-RATING-COMPONENT-01",
         "name": "Interactive Rating Component",
         "date": "June 8th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/interactiveratingcomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2819,15 +2135,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/interactive-rating-component/interactiveratingcomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/interactive-rating-component/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/interactive-rating-component/my-work/index.html",
@@ -2835,15 +2142,13 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-01",
         "name": "QR Code Component",
         "date": "June 5th, 2023",
         "project_status": "Completed",
-        "project_description": "",
         "trial": 1,
         "source": 1,
-        "difficulty": 1,
-        "featured": false,
+        "fem_difficulty": 1,
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2864,15 +2169,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/frontend-mentor-challenges/tree/main/qr-code-component/my-work",
             "website_preview_link": "https://frontend-mentor-challenges-pi-sage.vercel.app/qr-code-component/my-work/index.html",
@@ -2880,15 +2176,13 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V2-01",
         "name": "Portfolio Site V2",
         "date": "April 16th, 2023",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/portfolio-site-v2-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2909,15 +2203,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/portfolio-site-v2-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/zy8712.github.io_v2_depreciated",
             "website_preview_link": "https://zy8712-github-io-v2-depreciated.vercel.app/",
@@ -2925,15 +2210,13 @@
         }
     },
     {
-        "id": "BL-REACT-TO-DO-LIST-01",
         "name": "React - To Do List",
         "date": "March 23rd, 2023",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/react-to-do-list-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2953,15 +2236,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/react-to-do-list-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/react-app-to-do-list",
@@ -2970,15 +2244,13 @@
         }
     },
     {
-        "id": "BL-REACT-MOVIE-CATALOGUE-01",
         "name": "React - Movie Catalogue",
         "date": "March 22nd, 2023",
         "project_status": "Completed",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/react-movie-catalogue-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -2999,15 +2271,6 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
-        "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/react-movie-catalogue-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
-        },
         "links": {
             "github_link": "https://github.com/Zy8712/react-app-practice-movie-catalogue",
             "website_preview_link": "https://react-app-practice-movie-catalogue.vercel.app/",
@@ -3015,15 +2278,13 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V1-01",
         "name": "Portfolio Site V1",
         "date": "January 8th, 2023",
         "project_status": "Last Updated",
-        "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
-        "difficulty": 0,
-        "featured": false,
+        "fem_difficulty": 0,
+        "preview_image": "/project-previews/personal-project-previews/portfolio-site-v1-edited.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -3043,15 +2304,6 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
-        },
-        "site_icon": "",
-        "preview_image": "/project-previews/personal-project-previews/portfolio-site-v1-edited.jpg",
-        "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/zy8712.github.io_v1_depreciated",

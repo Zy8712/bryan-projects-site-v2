@@ -1,0 +1,45 @@
+    {
+        "id": "",
+        "name": "",
+        "date": "",
+        "project_status": "",
+        "project_description": "",
+        "trial": 1,
+        "source": 0,
+        "difficulty": 0,
+        "featured" : false,
+        "technologies": {
+            "html_TF": false,
+            "css_TF": false,
+            "javascript_TF": false,
+            "sass_TF": false,
+            "astro_TF": false,
+            "react_TF": false,
+            "tailwindcss_TF": false,
+            "bootstrap_TF": false,
+            "json_TF": false,
+            "api_TF": false,
+            "redux_TF": false,
+            "wouter_TF": false,
+            "nextjs_TF": false,
+            "angular_TF": false,
+            "vue_TF": false,
+            "figma_TF": false,
+            "postgesql_TF": false,
+            "typescript_TF": false
+        },
+        "site_icon": "",
+        "preview_image": "",
+        "preview_images": {
+            "num_1": "",
+            "num_2": "",
+            "num_3": "",
+            "num_4": "",
+            "num_5": ""
+        },
+        "links": {
+            "github_link": "",
+            "website_preview_link": "",
+            "challenge_link": ""
+        }
+    },

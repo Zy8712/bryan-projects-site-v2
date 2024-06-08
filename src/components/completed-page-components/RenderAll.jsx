@@ -1,10 +1,10 @@
-import UltimateProjectCard from "@/components/project-card-components/UltimateProjectCard";
+import UltimateProjectCardPagination from "@/components/project-card-components/UltimateProjectCardPagination";
 import all_data from "@/data/all-projects.json";
 
 export default function RenderAll() {
     return (
         <>
-            <UltimateProjectCard data={all_data} />
+            <UltimateProjectCardPagination data={all_data} />
         </>
     );
 }

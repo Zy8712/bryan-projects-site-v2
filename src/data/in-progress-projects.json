@@ -1,12 +1,14 @@
 [
     {
+        "id": "BL-HYDRAVIEW-01",
         "name": "HydraView",
         "date": "March 17th, 2024",
-        "project_status": "Last Updated",
+        "project_status": "Ongoing",
+        "project_description": "",
         "trial": 1,
         "source": 0,
-        "fem_difficulty": 0,
-        "preview_image": "/project-previews/personal-project-previews/hydraview-desktop-preview.jpg",
+        "difficulty": 0,
+        "featured" : false,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -26,6 +28,15 @@
             "figma_TF": false,
             "postgesql_TF": false,
             "typescript_TF": false
+        },
+        "site_icon": "",
+        "preview_image": "/project-previews/personal-project-previews/hydraview-desktop-preview.jpg",
+        "preview_images": {
+            "num_1": "",
+            "num_2": "",
+            "num_3": "",
+            "num_4": "",
+            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/HydraView",
@@ -34,13 +45,15 @@
         }
     },
     {
+        "id": "BL-CLASH-CARD-01",
         "name": "Clash Card",
         "date": "March 14th, 2024",
-        "project_status": "Last Updated",
+        "project_status": "Ongoing",
+        "project_description": "",
         "trial": 1,
         "source": 0,
-        "fem_difficulty": 0,
-        "preview_image": "",
+        "difficulty": 0,
+        "featured" : false,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -61,6 +74,15 @@
             "postgesql_TF": false,
             "typescript_TF": false
         },
+        "site_icon": "",
+        "preview_image": "",
+        "preview_images": {
+            "num_1": "",
+            "num_2": "",
+            "num_3": "",
+            "num_4": "",
+            "num_5": ""
+        },
         "links": {
             "github_link": "",
             "website_preview_link": "",
@@ -68,13 +90,15 @@
         }
     },
     {
+        "id": "BL-PI-SITE-01",
         "name": "PI Site",
         "date": "March 14th, 2024",
-        "project_status": "Last Updated",
+        "project_status": "Ongoing",
+        "project_description": "",
         "trial": 1,
         "source": 0,
-        "fem_difficulty": 0,
-        "preview_image": "",
+        "difficulty": 0,
+        "featured" : false,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -95,6 +119,15 @@
             "postgesql_TF": false,
             "typescript_TF": false
         },
+        "site_icon": "",
+        "preview_image": "",
+        "preview_images": {
+            "num_1": "",
+            "num_2": "",
+            "num_3": "",
+            "num_4": "",
+            "num_5": ""
+        },
         "links": {
             "github_link": "",
             "website_preview_link": "",
@@ -102,13 +135,15 @@
         }
     },
     {
+        "id": "BL-STONKS-01",
         "name": "Stonks - Stocks & Crypto",
         "date": "March 4th, 2024",
-        "project_status": "Last Updated",
+        "project_status": "Ongoing",
+        "project_description": "",
         "trial": 1,
         "source": 0,
-        "fem_difficulty": 0,
-        "preview_image": "/project-previews/personal-project-previews/stonks-desktop-preview.jpg",
+        "difficulty": 0,
+        "featured" : false,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -128,6 +163,15 @@
             "figma_TF": false,
             "postgesql_TF": false,
             "typescript_TF": true
+        },
+        "site_icon": "",
+        "preview_image": "/project-previews/personal-project-previews/stonks-desktop-preview.jpg",
+        "preview_images": {
+            "num_1": "",
+            "num_2": "",
+            "num_3": "",
+            "num_4": "",
+            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/stonks",

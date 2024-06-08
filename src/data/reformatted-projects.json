@@ -1,6 +1,6 @@
 [
     {
-        "id": "BL-ARCH-STUDIO-MULTI-PAGE-WEBSITE-01",
+        "id": "BL-archstudiomultipagewebsite-01",
         "name": "Arch Studio Multi Page Website",
         "date": "April 24th, 2024",
         "project_status": "Completed",
@@ -30,7 +30,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-advanced-previews/archstudiomultipagewebsite-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -45,12 +45,12 @@
         }
     },
     {
-        "id": "BL-IPHONE-15-LANDING-PAGE-CLONE-01",
+        "id": "BL-iphone15landingpageclone-00",
         "name": "iPhone 15 Landing Page Clone",
         "date": "April 10th, 2023",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 5,
         "difficulty": 0,
         "featured": false,
@@ -75,7 +75,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/iphone15plandingpage-desktop-preview.png",
+        "preview_image": "/project-previews/personal-project-previews/iphone15plandingpage-desktop-preview.png",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "id": "BL-RECIPE-PAGE-01",
+        "id": "BL-recipepage-01",
         "name": "Recipe Page",
         "date": "April 8th, 2023",
         "project_status": "Completed",
@@ -120,7 +120,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/recipe-page/recipepage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/recipepage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -135,7 +135,7 @@
         }
     },
     {
-        "id": "BL-SOCIAL-LINKS-PROFILE-01",
+        "id": "BL-sociallinksprofile-01",
         "name": "Social Links Profile",
         "date": "April 7th, 2023",
         "project_status": "Completed",
@@ -165,7 +165,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/social-links-profile/sociallinksprofile-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/sociallinksprofile-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -180,7 +180,7 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-05",
+        "id": "BL-3columnpreviewcardcomponent-05",
         "name": "3 Column Preview Card Component",
         "date": "April 7th, 2023",
         "project_status": "Completed",
@@ -210,7 +210,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -225,7 +225,7 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-06",
+        "id": "BL-qrcodecomponent-06",
         "name": "QR Code Component",
         "date": "April 7th, 2023",
         "project_status": "Completed",
@@ -255,7 +255,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -270,7 +270,7 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-04",
+        "id": "BL-3columnpreviewcardcomponent-04",
         "name": "3 Column Preview Card Component",
         "date": "April 6th, 2023",
         "project_status": "Completed",
@@ -300,7 +300,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -315,7 +315,7 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-05",
+        "id": "BL-qrcodecomponent-05",
         "name": "QR Code Component",
         "date": "April 6th, 2023",
         "project_status": "Completed",
@@ -345,7 +345,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -360,12 +360,12 @@
         }
     },
     {
-        "id": "BL-NIKE-LANDING-PAGE-CLONE-01",
+        "id": "BL-nikelandingpageclone-00",
         "name": "Nike Landing Page Clone",
         "date": "March 30th, 2024",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 5,
         "difficulty": 0,
         "featured": false,
@@ -390,7 +390,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/nikeplandingpage-desktop-preview.png",
+        "preview_image": "/project-previews/personal-project-previews/nikeplandingpage-desktop-preview.png",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -405,12 +405,12 @@
         }
     },
     {
-        "id": "BL-BRYAN-S-PROJECTS-SITE-01",
+        "id": "BL-bryan'sprojectssite-00",
         "name": "Bryan's Projects Site",
         "date": "March 24th, 2024",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -450,12 +450,12 @@
         }
     },
     {
-        "id": "BL-BRYAN-S-CERTIFICATES-SITE-01",
+        "id": "BL-bryan'scertificatessite-00",
         "name": "Bryan's Certificates Site",
         "date": "Febuary 29th, 2024",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -495,7 +495,7 @@
         }
     },
     {
-        "id": "BL-REST-COUNTRIES-API-WITH-COLOUR-THEME-SWITCHER-01",
+        "id": "BL-restcountriesapiwithcolourthemeswitcher-01",
         "name": "REST Countries API with Colour Theme Switcher",
         "date": "February 4th, 2024",
         "project_status": "Completed",
@@ -525,7 +525,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rest-countries-website/restcountriesapiwithcolorthemeswitcher-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-advanced-previews/rest-countries-website/restcountriesapiwithcolorthemeswitcher-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -540,12 +540,12 @@
         }
     },
     {
-        "id": "BL-LAZY-CAT-01",
+        "id": "BL-lazycat-00",
         "name": "Lazy Cat",
         "date": "Febuary 1st, 2024",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -585,12 +585,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-01",
+        "id": "BL-portfoliosite-00",
         "name": "Portfolio Site",
         "date": "Febuary 1st, 2024",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -630,7 +630,7 @@
         }
     },
     {
-        "id": "BL-AUDIOPHILE-E-COMMERCE-WEBSITE-01",
+        "id": "BL-audiophilee-commercewebsite-01",
         "name": "Audiophile E-Commerce Website",
         "date": "January 8th, 2024",
         "project_status": "Completed",
@@ -660,7 +660,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -675,12 +675,12 @@
         }
     },
     {
-        "id": "BL-NEXTJS-TUTORIAL-DASHBOARD-01",
+        "id": "BL-nextjstutorialdashboard-00",
         "name": "NextJS Tutorial Dashboard",
         "date": "December 28th, 2023",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -720,7 +720,7 @@
         }
     },
     {
-        "id": "BL-BLOG-PREVIEW-CARD-01",
+        "id": "BL-blogpreviewcard-01",
         "name": "Blog Preview Card",
         "date": "December 27th, 2023",
         "project_status": "Completed",
@@ -750,7 +750,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/blog-preview-card/blogpreviewcard-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/blogpreviewcard-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -765,12 +765,12 @@
         }
     },
     {
-        "id": "BL-EXPANDED-AGE-CALC-01",
+        "id": "BL-expandedagecalc-00",
         "name": "Expanded Age Calc",
         "date": "October 21st, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -810,7 +810,7 @@
         }
     },
     {
-        "id": "BL-POD-REQUEST-ACCESS-LANDING-PAGE-01",
+        "id": "BL-podrequestaccesslandingpage-01",
         "name": "Pod Request Access Landing Page",
         "date": "October 9th, 2023",
         "project_status": "Completed",
@@ -840,7 +840,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/pod-request-access-landing-page/podrequestaccesslandingpage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/podrequestaccesslandingpage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -855,7 +855,7 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-04",
+        "id": "BL-qrcodecomponent-04",
         "name": "QR Code Component",
         "date": "October 7th, 2023",
         "project_status": "Completed",
@@ -885,7 +885,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -900,7 +900,7 @@
         }
     },
     {
-        "id": "BL-ADVICE-GENERATOR-APP-03",
+        "id": "BL-advicegeneratorapp-03",
         "name": "Advice Generator App",
         "date": "October 6th, 2023",
         "project_status": "Completed",
@@ -930,7 +930,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/advicegeneratorapp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -945,7 +945,7 @@
         }
     },
     {
-        "id": "BL-SPACE-TOURISM-MULTI-PAGE-WEBSITE-01",
+        "id": "BL-spacetourismmulti-pagewebsite-01",
         "name": "Space Tourism Multi-page Website",
         "date": "October 2nd, 2023",
         "project_status": "Completed",
@@ -975,7 +975,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/space-tourism-website/spacetourismwebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-intermediate-previews/space-tourism-website/spacetourismwebsite-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -990,7 +990,7 @@
         }
     },
     {
-        "id": "BL-PING-COMING-SOON-PAGE-01",
+        "id": "BL-pingcomingsoonpage-01",
         "name": "Ping Coming Soon Page",
         "date": "September 16th, 2023",
         "project_status": "Completed",
@@ -1020,7 +1020,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/ping-single-column-coming-soon-page/pingsinglecolumncomingsoonpage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/pingsinglecolumncomingsoonpage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "id": "BL-CLIPBOARD-LANDING-PAGE-01",
+        "id": "BL-clipboardlandingpage-01",
         "name": "Clipboard Landing Page",
         "date": "September 14th, 2023",
         "project_status": "Completed",
@@ -1065,7 +1065,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/clipboard-landing-page/clipboardlandingpage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/clipboardlandingpage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "id": "BL-ROOM-HOMEPAGE-01",
+        "id": "BL-roomhomepage-01",
         "name": "Room Homepage",
         "date": "September 7th, 2023",
         "project_status": "Completed",
@@ -1110,7 +1110,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/room-homepage/roomhomepage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-intermediate-previews/roomhompage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "id": "BL-NEWSLETTER-SIGN-UP-FORM-WITH-SUCCESS-MESSAGE-02",
+        "id": "BL-newslettersign-upformwithsuccessmessage-02",
         "name": "Newsletter Sign-up Form With Success Message",
         "date": "September 3rd, 2023",
         "project_status": "Completed",
@@ -1155,7 +1155,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/newsletter-signup-form-with-success-message/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "id": "BL-SINGLE-PRICE-GRID-COMPONENT-02",
+        "id": "BL-singlepricegridcomponent-02",
         "name": "Single Price Grid Component",
         "date": "August 31st, 2023",
         "project_status": "Completed",
@@ -1200,7 +1200,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/single-price-grid-component/singlepricegridcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/singlepricegridcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-03",
+        "id": "BL-3columnpreviewcardcomponent-03",
         "name": "3 Column Preview Card Component",
         "date": "August 29th, 2023",
         "project_status": "Completed",
@@ -1245,7 +1245,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "id": "BL-HUDDLE-LANDING-PAGE-WITH-ALTERNATING-FEATURE-BLOCKS-01",
+        "id": "BL-huddlelandingpagewithalternatingfeatureblocks-01",
         "name": "Huddle Landing Page With Alternating Feature Blocks",
         "date": "August 26th, 2023",
         "project_status": "Completed",
@@ -1290,7 +1290,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/huddle-landing-page-with-alternating-feature-blocks/huddlelandingpagewithalternatingfeatureblocks-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/huddlelandingpagewithalternatingfeatureblocks-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "id": "BL-ADVICE-GENERATOR-APP-02",
+        "id": "BL-advicegeneratorapp-02",
         "name": "Advice Generator App",
         "date": "August 14th, 2023",
         "project_status": "Completed",
@@ -1335,7 +1335,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/advicegeneratorapp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-03",
+        "id": "BL-qrcodecomponent-03",
         "name": "QR Code Component",
         "date": "August 14th, 2023",
         "project_status": "Completed",
@@ -1380,7 +1380,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "id": "BL-PROFILE-CARD-COMPONENT-02",
+        "id": "BL-profilecardcomponent-02",
         "name": "Profile Card Component",
         "date": "August 13th, 2023",
         "project_status": "Completed",
@@ -1425,7 +1425,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/profile-card-component/profilecardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/profilecardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "id": "BL-ROCK-PAPER-SCISSORS-GAME-01",
+        "id": "BL-rock,paper,scissorsgame-01",
         "name": "Rock, Paper, Scissors Game",
         "date": "August 11th, 2023",
         "project_status": "Completed",
@@ -1470,7 +1470,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-advanced-previews/rockpaperscissorsgame-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "id": "BL-EXPENSES-CHART-COMPONENT-01",
+        "id": "BL-expenseschartcomponent-01",
         "name": "Expenses Chart Component",
         "date": "August 11th, 2023",
         "project_status": "Completed",
@@ -1515,7 +1515,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/expenses-chart-component/expenseschartcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/expenseschartcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-02",
+        "id": "BL-3columnpreviewcardcomponent-02",
         "name": "3 Column Preview Card Component",
         "date": "August 8th, 2023",
         "project_status": "Completed",
@@ -1560,7 +1560,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "id": "BL-IP-ADDRESS-TRACKER-01",
+        "id": "BL-ipaddresstracker-01",
         "name": "IP Address Tracker",
         "date": "August 7th, 2023",
         "project_status": "Completed",
@@ -1605,7 +1605,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/ip-address-tracker/ipaddresstracker-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-intermediate-previews/ipaddresstracker-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "id": "BL-FYLO-DARK-THEME-LANDING-PAGE-01",
+        "id": "BL-fylodarkthemelandingpage-01",
         "name": "Fylo Dark Theme Landing Page",
         "date": "August 5th, 2023",
         "project_status": "Completed",
@@ -1650,7 +1650,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/fylo-dark-theme-landing-page/fylodarkthemelandingpage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/fylodarkthemelandingpage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "id": "BL-INTERACTIVE-RATING-COMPONENT-02",
+        "id": "BL-interactiveratingcomponent-02",
         "name": "Interactive Rating Component",
         "date": "August 1st, 2023",
         "project_status": "Completed",
@@ -1695,7 +1695,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/interactive-rating-component/interactiveratingcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/interactiveratingcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-02",
+        "id": "BL-qrcodecomponent-02",
         "name": "QR Code Component",
         "date": "July 31st, 2023",
         "project_status": "Completed",
@@ -1740,7 +1740,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1755,7 +1755,7 @@
         }
     },
     {
-        "id": "BL-TIP-CALCULATOR-APP-01",
+        "id": "BL-tipcalculatorapp-01",
         "name": "Tip Calculator App",
         "date": "July 30th, 2023",
         "project_status": "Completed",
@@ -1785,7 +1785,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/tip-calculator-app/tipcalculatorapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/tipcalculatorapp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "id": "BL-ADVICE-GENERATOR-APP-01",
+        "id": "BL-advicegeneratorapp-01",
         "name": "Advice Generator App",
         "date": "July 27th, 2023",
         "project_status": "Completed",
@@ -1830,7 +1830,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/advicegeneratorapp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "id": "BL-AGE-CALCULATOR-APP-01",
+        "id": "BL-agecalculatorapp-01",
         "name": "Age Calculator App",
         "date": "July 23rd, 2023",
         "project_status": "Completed",
@@ -1875,7 +1875,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/age-calculator-app/agecalculatorapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/agecalculatorapp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -1890,12 +1890,12 @@
         }
     },
     {
-        "id": "BL-FRONTEND-MENTOR-WORK-DIRECTORY-01",
+        "id": "BL-frontendmentorworkdirectory-00",
         "name": "Frontend Mentor Work Directory",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -1935,12 +1935,12 @@
         }
     },
     {
-        "id": "BL-DEV-TOOLS-SITE-01",
+        "id": "BL-devtoolssite-00",
         "name": "Dev Tools Site",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -1980,12 +1980,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V3-01",
+        "id": "BL-portfoliositev3-00",
         "name": "Portfolio Site V3",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "id": "BL-SINGLE-PRICE-GRID-COMPONENT-01",
+        "id": "BL-singlepricegridcomponent-01",
         "name": "Single Price Grid Component",
         "date": "July 17th, 2023",
         "project_status": "Completed",
@@ -2055,7 +2055,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/single-price-grid-component/singlepricegridcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/singlepricegridcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "id": "BL-FOUR-CARD-FEATURE-SECTION-01",
+        "id": "BL-fourcardfeaturesection-01",
         "name": "Four Card Feature Section",
         "date": "July 16th, 2023",
         "project_status": "Completed",
@@ -2100,7 +2100,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/four-card-features-section/fourcardfeaturesection-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/fourcardfeaturesection-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "id": "BL-NEWS-HOMEPAGE-01",
+        "id": "BL-newshomepage-01",
         "name": "News Homepage",
         "date": "July 14th, 2023",
         "project_status": "Completed",
@@ -2145,7 +2145,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/news-homepage/newshomepage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/newshomepage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "id": "BL-SOCIAL-PROOF-SECTION-01",
+        "id": "BL-socialproofsection-01",
         "name": "Social Proof Section",
         "date": "July 9th, 2023",
         "project_status": "Completed",
@@ -2190,7 +2190,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/social-proof-section/socialproofsection-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/socialproofsection-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2205,7 +2205,7 @@
         }
     },
     {
-        "id": "BL-FYLO-DATA-STORAGE-COMPONENT-01",
+        "id": "BL-fylodatastoragecomponent-01",
         "name": "Fylo Data Storage Component",
         "date": "July 7th, 2023",
         "project_status": "Completed",
@@ -2235,7 +2235,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/fylo-data-storage-component/fylodatastoragecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/fylodatastoragecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2250,7 +2250,7 @@
         }
     },
     {
-        "id": "BL-TIME-TRACKING-DASHBOARD-01",
+        "id": "BL-timetrackingdashboard-01",
         "name": "Time Tracking Dashboard",
         "date": "July 6th, 2023",
         "project_status": "Completed",
@@ -2280,7 +2280,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/time-tracking-dashboard/timetrackingdashboard-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/timetrackingdashboard-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2295,7 +2295,7 @@
         }
     },
     {
-        "id": "BL-TESTIMONIALS-GRID-SECTION-01",
+        "id": "BL-testimonialsgridsection-01",
         "name": "Testimonials Grid Section",
         "date": "July 3rd, 2023",
         "project_status": "Completed",
@@ -2325,7 +2325,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/testimonials-grids-section/testimonialsgridsection-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/testimonialsgridsection-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2340,7 +2340,7 @@
         }
     },
     {
-        "id": "BL-NEWSLETTER-SIGN-UP-FORM-WITH-SUCCESS-MESSAGE-01",
+        "id": "BL-newslettersign-upformwithsuccessmessage-01",
         "name": "Newsletter Sign-up Form With Success Message",
         "date": "July 1st, 2023",
         "project_status": "Completed",
@@ -2370,7 +2370,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/newsletter-signup-form-with-success-message/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-junior-previews/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2385,7 +2385,7 @@
         }
     },
     {
-        "id": "BL-ARTICLE-PREVIEW-COMPONENT-01",
+        "id": "BL-articlepreviewcomponent-01",
         "name": "Article Preview Component",
         "date": "July 1st, 2023",
         "project_status": "Completed",
@@ -2415,7 +2415,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/article-preview-component/articlepreviewcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/articlepreviewcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2430,7 +2430,7 @@
         }
     },
     {
-        "id": "BL-FAQ-ACCORDION-CARD-01",
+        "id": "BL-faqaccordioncard-01",
         "name": "Faq Accordion Card",
         "date": "June 26th, 2023",
         "project_status": "Completed",
@@ -2460,7 +2460,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/faq-accordion-card/faqaccordioncard-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/faqaccordioncard-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2475,7 +2475,7 @@
         }
     },
     {
-        "id": "BL-STATS-PREVIEW-CARD-COMPONENT-01",
+        "id": "BL-statspreviewcardcomponent-01",
         "name": "Stats Preview Card Component",
         "date": "June 16th, 2023",
         "project_status": "Completed",
@@ -2505,7 +2505,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/stats-preview-card-component/statspreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/statspreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2520,7 +2520,7 @@
         }
     },
     {
-        "id": "BL-NFT-PREVIEW-CARD-COMPONENT-01",
+        "id": "BL-nftpreviewcardcomponent-01",
         "name": "NFT Preview Card Component",
         "date": "June 14th, 2023",
         "project_status": "Completed",
@@ -2550,7 +2550,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/nft-preview-card-component/nftpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/nftpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2565,7 +2565,7 @@
         }
     },
     {
-        "id": "BL-PRODUCT-PREVIEW-CARD-COMPONENT-01",
+        "id": "BL-productpreviewcardcomponent-01",
         "name": "Product Preview Card Component",
         "date": "June 13th, 2023",
         "project_status": "Completed",
@@ -2595,7 +2595,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/product-preview-card-component/productpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/productpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2610,7 +2610,7 @@
         }
     },
     {
-        "id": "BL-3-COLUMN-PREVIEW-CARD-COMPONENT-01",
+        "id": "BL-3columnpreviewcardcomponent-01",
         "name": "3 Column Preview Card Component",
         "date": "June 12th, 2023",
         "project_status": "Completed",
@@ -2640,7 +2640,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/3columnpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2655,7 +2655,7 @@
         }
     },
     {
-        "id": "BL-RESULTS-SUMMARY-COMPONENT-01",
+        "id": "BL-resultssummarycomponent-01",
         "name": "Results Summary Component",
         "date": "June 11th, 2023",
         "project_status": "Completed",
@@ -2685,7 +2685,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/results-summary-component/resultssummarycomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/resultssummarycomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2700,7 +2700,7 @@
         }
     },
     {
-        "id": "BL-PROFILE-CARD-COMPONENT-01",
+        "id": "BL-profilecardcomponent-01",
         "name": "Profile Card Component",
         "date": "June 10th, 2023",
         "project_status": "Completed",
@@ -2730,7 +2730,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/profile-card-component/profilecardcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/profilecardcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2745,7 +2745,7 @@
         }
     },
     {
-        "id": "BL-ORDER-SUMMARY-COMPONENT-01",
+        "id": "BL-ordersummarycomponent-01",
         "name": "Order Summary Component",
         "date": "June 9th, 2023",
         "project_status": "Completed",
@@ -2775,7 +2775,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/order-summary-component/ordersummarycomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/ordersummarycomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2790,7 +2790,7 @@
         }
     },
     {
-        "id": "BL-INTERACTIVE-RATING-COMPONENT-01",
+        "id": "BL-interactiveratingcomponent-01",
         "name": "Interactive Rating Component",
         "date": "June 8th, 2023",
         "project_status": "Completed",
@@ -2820,7 +2820,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/interactive-rating-component/interactiveratingcomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/interactiveratingcomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2835,7 +2835,7 @@
         }
     },
     {
-        "id": "BL-QR-CODE-COMPONENT-01",
+        "id": "BL-qrcodecomponent-01",
         "name": "QR Code Component",
         "date": "June 5th, 2023",
         "project_status": "Completed",
@@ -2865,7 +2865,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
+        "preview_image": "/project-previews/fem-newbie-previews/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2880,12 +2880,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V2-01",
+        "id": "BL-portfoliositev2-00",
         "name": "Portfolio Site V2",
         "date": "April 16th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -2925,12 +2925,12 @@
         }
     },
     {
-        "id": "BL-REACT-TO-DO-LIST-01",
+        "id": "BL-react-todolist-00",
         "name": "React - To Do List",
         "date": "March 23rd, 2023",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -2955,7 +2955,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/react-to-do-list-edited.jpg",
+        "preview_image": "/project-previews/personal-project-previews/react-to-do-list-edited.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -2970,12 +2970,12 @@
         }
     },
     {
-        "id": "BL-REACT-MOVIE-CATALOGUE-01",
+        "id": "BL-react-moviecatalogue-00",
         "name": "React - Movie Catalogue",
         "date": "March 22nd, 2023",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -3000,7 +3000,7 @@
             "typescript_TF": false
         },
         "site_icon": "",
-        "preview_image": "/project-previews/youtube-coding-project-previews/react-movie-catalogue-edited.jpg",
+        "preview_image": "/project-previews/personal-project-previews/react-movie-catalogue-edited.jpg",
         "preview_images": {
             "num_1": "",
             "num_2": "",
@@ -3015,12 +3015,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V1-01",
+        "id": "BL-portfoliositev1-00",
         "name": "Portfolio Site V1",
         "date": "January 8th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,

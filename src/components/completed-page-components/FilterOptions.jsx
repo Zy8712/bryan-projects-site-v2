@@ -8,9 +8,9 @@ export default function FilterOptions() {
         { iconClass: "las la-wind", filterText: "Tailwind CSS" },
         { iconClass: "las la-file-alt", filterText: "JSON" },
         { iconClass: "las la-cog", filterText: "API" },
+        { iconClass: "lab la-neos", filterText: "Next.js" },
         { iconClass: "lab la-vuejs", filterText: "Vue" },
         { iconClass: "las la-rocket", filterText: "Astro" },
-        { iconClass: "lab la-angular", filterText: "Angular" },
         { iconClass: "las la-route", filterText: "Wouter" }    
     ];
 
@@ -20,7 +20,7 @@ export default function FilterOptions() {
         { iconClass: "las la-user-tie", filterText: "Frontend Pro" },
         { iconClass: "las la-file-code", filterText: "iCodeThis" },
         { iconClass: "las la-hammer", filterText: "Odin Project" },
-        { iconClass: "las la-cocktail", filterText: "TryTapioca" },
+        { iconClass: "las la-cocktail", filterText: "Tapioca" },
         { iconClass: "lab la-youtube", filterText: "YouTube" },
         { iconClass: "las la-user", filterText: "Personal" }
     ];
@@ -31,11 +31,13 @@ export default function FilterOptions() {
         { iconClass: "las la-hands-helping", filterText: "Collab" },
         { iconClass: "las la-business-time", filterText: "Freelance" },
         { iconClass: "las la-layer-group", filterText: "Multi-page" },
-        { iconClass: "las la-meteor", filterText: "Recent" }
+        { iconClass: "las la-layer-group", filterText: "Single Page" },
+        { iconClass: "las la-layer-group", filterText: "Components" },
+        { iconClass: "las la-meteor", filterText: "Recent" },
     ];
 
     const renderFilterButtons = () => {
-        return filterOptionsSource.map((filter, index) => (
+        return filterOptionsTechnology.map((filter, index) => (
             <button
                 key={index}
                 aria-label={`${filter.filterText} Filter Option`}
