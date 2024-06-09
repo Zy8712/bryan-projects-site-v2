@@ -9,11 +9,17 @@ const imageSources = {
     6: { src: "/icons/project-source-icons/tapioca-logo.png", alt: "frontendpro_icon" },
 };
 
-const femLevels = ["N", "J", "I", "A", "G"];
-const femLevelsColors = ["text-fem-newbie", "text-fem-junior", "text-fem-intermediate", "text-fem-advanced", "text-fem-guru"];
+const femLevels = [
+    { level: "N", color: "text-fem-newbie" },
+    { level: "J", color: "text-fem-junior" },
+    { level: "I", color: "text-fem-intermediate" },
+    { level: "A", color: "text-fem-advanced" },
+    { level: "G", color: "text-fem-guru" }
+];
 
 export default function ProjectDetails(props) {
     const imageSource = imageSources[props.source] || null;
+    const femLevel = femLevels[props.difficulty - 1];
 
     return (
         <div className="w-full flex flex-col justify-between items-center px-6 custom-sm:px-9 text-center relative">
@@ -47,14 +53,13 @@ export default function ProjectDetails(props) {
                 </div>
             )}
 
-
-            {props.difficulty !== 0 && (
+            {props.difficulty !== 0 && femLevel && (
                 <div className={`w-9 h-9 flex flex-col justify-start items-start absolute top-0 left-0 
                     bg-gradient-to-tl from-light-gray to-white rounded-br-full`}>
                     <div className="mt-[1px] w-7 h-7 flex flex-col justify-center items-center font-theme-oxanium">
                         {props.source === 1 ? (
-                            <span className={`ml-[2px] font-extrabold text-lg ${femLevelsColors[props.difficulty - 1]}  [text-shadow:_0.2px_0px_white,_0px_0.2px_white,_0.2px_0.2px_white,_-0.2px_-0.2px_white,_-0.2px_0px_white,_0px_-0.2px_white,_-0.2px_0.2px_white,_0.2px_-0.2px_white]`}>
-                                {femLevels[props.difficulty - 1]}
+                            <span className={`ml-[2px] font-extrabold text-lg ${femLevel.color} [text-shadow:_0.2px_0px_white,_0px_0.2px_white,_0.2px_0.2px_white,_-0.2px_-0.2px_white,_-0.2px_0px_white,_0px_-0.2px_white,_-0.2px_0.2px_white,_0.2px_-0.2px_white]`}>
+                                {femLevel.level}
                             </span>
                         ) : (
                             <span className="ml-[2px] font-bold text-sm text-yellow-500 [text-shadow:_0.2px_0px_white,_0px_0.2px_white,_0.2px_0.2px_white,_-0.2px_-0.2px_white,_-0.2px_0px_white,_0px_-0.2px_white,_-0.2px_0.2px_white,_0.2px_-0.2px_white]">
