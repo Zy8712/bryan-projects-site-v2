@@ -6,7 +6,7 @@ export default function FilterCategories() {
         { iconClass: "las la-expand", filterText: "All" },
         { iconClass: "las la-star", filterText: "Featured" },
         { iconClass: "las la-toolbox", filterText: "Technology" },
-        { iconClass: "las la-lightbulb", filterText: "Project Source" },
+        { iconClass: "las la-lightbulb", filterText: "Source" },
         { iconClass: "las la-plus", filterText: "" }
     ];
 
