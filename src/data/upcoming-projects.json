@@ -5,7 +5,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 2,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/icodethis-project-previews/icodethis_pricing_table.png",
         "technologies": {
             "html_TF": true,
@@ -39,7 +39,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 2,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/icodethis-project-previews/icodethis_social_login.png",
         "technologies": {
             "html_TF": true,
@@ -73,7 +73,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 2,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/icodethis-project-previews/icodethis_mobile_menu.png",
         "technologies": {
             "html_TF": true,
@@ -107,7 +107,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 5,
+        "difficulty": 5,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/invoice-app/invoiceapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -141,7 +141,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 5,
+        "difficulty": 5,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/kanban-task-management-web-app/kanbantaskmanagementwebapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -175,7 +175,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 3,
+        "difficulty": 3,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/todo-app/todoapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": false,
@@ -209,7 +209,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 3,
+        "difficulty": 3,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/launch-countdown-timer/launchcountdowntimer-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -243,7 +243,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 5,
+        "difficulty": 5,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/invoice-app/invoiceapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -277,7 +277,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 4,
+        "difficulty": 4,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/designo-multi-page-website/designomultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -311,7 +311,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 4,
+        "difficulty": 4,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/my-team-multi-page-website/myteammultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -345,7 +345,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 4,
+        "difficulty": 4,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/payapi-multi-page-website/payapimultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -379,7 +379,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 1,
-        "fem_difficulty": 4,
+        "difficulty": 4,
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/photosnap-multi-page-website/photosnapmultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
@@ -413,7 +413,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 2,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/icodethis-project-previews/icodethis_cart_item.png",
         "technologies": {
             "html_TF": true,
@@ -447,7 +447,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/commenttemplate-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -481,7 +481,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/commune-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -515,7 +515,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/gradiesignup-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -549,7 +549,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/indiebrew-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -583,7 +583,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/meeet-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -617,7 +617,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/newsienewsletter-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -651,7 +651,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/ondeck-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -685,7 +685,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/snipperlandingpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -719,7 +719,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/spenselandingpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -753,7 +753,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/unifeed-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -787,7 +787,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/johnathanspectorportfolio-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -821,7 +821,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/chirplandingpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -855,7 +855,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/fiberlandingpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -889,7 +889,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/hosterr-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -923,7 +923,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 3,
-        "fem_difficulty": 0,
+        "difficulty": 0,
         "preview_image": "/project-previews/codewell-project-previews/timenowpage-desktop-preview.png",
         "technologies": {
             "html_TF": true,
@@ -957,7 +957,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_accordion_component.png",
         "technologies": {
             "html_TF": true,
@@ -991,7 +991,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_blog_card_component.png",
         "technologies": {
             "html_TF": true,
@@ -1025,7 +1025,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_calendar_viewer_component.png",
         "technologies": {
             "html_TF": true,
@@ -1059,7 +1059,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_contact_us_page.png",
         "technologies": {
             "html_TF": true,
@@ -1093,7 +1093,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_countdown_timer.png",
         "technologies": {
             "html_TF": true,
@@ -1127,7 +1127,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_feedback_modal_component.png",
         "technologies": {
             "html_TF": true,
@@ -1161,7 +1161,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_icon_sets_pricing_card_component.png",
         "technologies": {
             "html_TF": true,
@@ -1195,7 +1195,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 3,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_multi-select_search_component.png",
         "technologies": {
             "html_TF": true,
@@ -1229,7 +1229,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_newsletter_card_component.png",
         "technologies": {
             "html_TF": true,
@@ -1263,7 +1263,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_otp_verification_component.png",
         "technologies": {
             "html_TF": true,
@@ -1297,7 +1297,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_payment_landing_page.png",
         "technologies": {
             "html_TF": true,
@@ -1331,7 +1331,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_pricing_card_page.png",
         "technologies": {
             "html_TF": true,
@@ -1365,7 +1365,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_profile_card_component.png",
         "technologies": {
             "html_TF": true,
@@ -1399,7 +1399,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_random_quote_generator.png",
         "technologies": {
             "html_TF": true,
@@ -1433,7 +1433,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_sendcrypt_web3_app.png",
         "technologies": {
             "html_TF": true,
@@ -1467,7 +1467,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 1,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_share_content_card_component.png",
         "technologies": {
             "html_TF": true,
@@ -1501,7 +1501,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_smart_home_landing_page.png",
         "technologies": {
             "html_TF": true,
@@ -1535,7 +1535,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 3,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_sortable_list_component.png",
         "technologies": {
             "html_TF": true,
@@ -1569,7 +1569,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_star_rating_component.png",
         "technologies": {
             "html_TF": true,
@@ -1603,7 +1603,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_testimonials_ui_component.png",
         "technologies": {
             "html_TF": true,
@@ -1637,7 +1637,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_toast_notification_component.png",
         "technologies": {
             "html_TF": true,
@@ -1671,7 +1671,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 2,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_typeahead_search_component.png",
         "technologies": {
             "html_TF": true,
@@ -1705,7 +1705,7 @@
         "project_status": "In Queue",
         "trial": 1,
         "source": 4,
-        "fem_difficulty": 0,
+        "difficulty": 3,
         "preview_image": "/project-previews/frontendpro-project-previews/frontendpro_video_player_app.png",
         "technologies": {
             "html_TF": true,
