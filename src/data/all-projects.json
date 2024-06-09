@@ -405,12 +405,12 @@
         }
     },
     {
-        "id": "BL-BRYAN-S-PROJECTS-SITE-01",
-        "name": "Bryan's Projects Site",
+        "id": "BL-BRYAN-S-PROJECTS-SITE-V1-00",
+        "name": "Bryan's Projects Site V1",
         "date": "March 24th, 2024",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -450,12 +450,12 @@
         }
     },
     {
-        "id": "BL-BRYAN-S-CERTIFICATES-SITE-01",
+        "id": "BL-BRYAN-S-CERTIFICATES-SITE-00",
         "name": "Bryan's Certificates Site",
         "date": "Febuary 29th, 2024",
         "project_status": "Completed",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -540,12 +540,12 @@
         }
     },
     {
-        "id": "BL-LAZY-CAT-01",
+        "id": "BL-LAZY-CAT-00",
         "name": "Lazy Cat",
         "date": "Febuary 1st, 2024",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -585,12 +585,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-01",
-        "name": "Portfolio Site",
+        "id": "BL-PORTFOLIO-SITE-V4-00",
+        "name": "Portfolio Site V4",
         "date": "Febuary 1st, 2024",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -765,12 +765,12 @@
         }
     },
     {
-        "id": "BL-EXPANDED-AGE-CALC-01",
+        "id": "BL-EXPANDED-AGE-CALC-00",
         "name": "Expanded Age Calc",
         "date": "October 21st, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -1890,12 +1890,12 @@
         }
     },
     {
-        "id": "BL-FRONTEND-MENTOR-WORK-DIRECTORY-01",
+        "id": "BL-FRONTEND-MENTOR-WORK-DIRECTORY-00",
         "name": "Frontend Mentor Work Directory",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -1935,12 +1935,12 @@
         }
     },
     {
-        "id": "BL-DEV-TOOLS-SITE-01",
+        "id": "BL-DEV-TOOLS-SITE-00",
         "name": "Dev Tools Site",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -1980,12 +1980,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V3-01",
+        "id": "BL-PORTFOLIO-SITE-V3-00",
         "name": "Portfolio Site V3",
         "date": "July 18th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -2880,12 +2880,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V2-01",
+        "id": "BL-PORTFOLIO-SITE-V2-00",
         "name": "Portfolio Site V2",
         "date": "April 16th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,
@@ -3015,12 +3015,12 @@
         }
     },
     {
-        "id": "BL-PORTFOLIO-SITE-V1-01",
+        "id": "BL-PORTFOLIO-SITE-V1-00",
         "name": "Portfolio Site V1",
         "date": "January 8th, 2023",
         "project_status": "Last Updated",
         "project_description": "",
-        "trial": 1,
+        "trial": 0,
         "source": 0,
         "difficulty": 0,
         "featured": false,

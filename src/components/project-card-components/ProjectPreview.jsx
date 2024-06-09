@@ -24,7 +24,7 @@ export default function ProjectPreview(props) {
                 height={293.333333}
                 layout="responsive"
                 className="duration-300 transform scale-100 group-hover:scale-108 transition-transform"
-                onLoadingComplete={handleImageLoad}
+                onLoad={handleImageLoad}
                 priority={true}
             />
         </>

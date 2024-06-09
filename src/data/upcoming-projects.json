@@ -108,7 +108,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 5,
-        "preview_image": "/project-previews/fem-guru-previews/invoiceapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/invoice-app/invoiceapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -142,7 +142,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 5,
-        "preview_image": "/project-previews/fem-guru-previews/kanbantaskmanagementwebapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/kanban-task-management-web-app/kanbantaskmanagementwebapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -176,7 +176,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 3,
-        "preview_image": "/project-previews/todoapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/todo-app/todoapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": false,
             "css_TF": false,
@@ -210,7 +210,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 3,
-        "preview_image": "/project-previews/launchcountdowntimer-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/launch-countdown-timer/launchcountdowntimer-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -244,7 +244,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 5,
-        "preview_image": "/project-previews/fem-guru-previews/invoiceapp-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/invoice-app/invoiceapp-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -278,7 +278,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 4,
-        "preview_image": "/project-previews/fem-advanced-previews/designomultipagewebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/designo-multi-page-website/designomultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -312,7 +312,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 4,
-        "preview_image": "/project-previews/fem-advanced-previews/myteammultipagewebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/my-team-multi-page-website/myteammultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -346,7 +346,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 4,
-        "preview_image": "/project-previews/fem-advanced-previews/payapimultipagewebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/payapi-multi-page-website/payapimultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -380,7 +380,7 @@
         "trial": 1,
         "source": 1,
         "fem_difficulty": 4,
-        "preview_image": "/project-previews/fem-advanced-previews/photosnapmultipagewebsite-desktop-preview.jpg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/photosnap-multi-page-website/photosnapmultipagewebsite-desktop-preview.jpg",
         "technologies": {
             "html_TF": true,
             "css_TF": true,
