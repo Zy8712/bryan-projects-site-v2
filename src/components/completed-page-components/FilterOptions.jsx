@@ -26,7 +26,6 @@ export default function FilterOptions() {
     ];
 
     const filterOptionsOther = [
-        { iconClass: "las la-star", filterText: "Featured" },
         { iconClass: "las la-university", filterText: "School" },
         { iconClass: "las la-hands-helping", filterText: "Collab" },
         { iconClass: "las la-business-time", filterText: "Freelance" },
@@ -51,7 +50,7 @@ export default function FilterOptions() {
 
     return (
         <>
-            <div className="mt-3 w-full max-w-[600px] flex justify-center flex-wrap gap-y-2 bg-white bg-opacity-10 border-white border-4 border-solid rounded-lg p-2">
+            <div className="absolute z-[99999] top-[calc(100%)] mt-2 w-full max-w-[600px] flex justify-center flex-wrap gap-y-2 bg-light-gray bg-opacity-50 border-white border-4 border-solid rounded-lg p-2">
                 {renderFilterButtons()}
             </div>
         </>
