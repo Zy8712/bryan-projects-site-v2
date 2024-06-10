@@ -8,7 +8,7 @@
         "trial": 1,
         "source": 1,
         "difficulty": 4,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": false,
@@ -28,6 +28,15 @@
             "figma_TF": true,
             "postgesql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-desktop-preview.jpg",
@@ -74,6 +83,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/youtube-coding-project-previews/iphone15plandingpage-desktop-preview.png",
         "preview_images": {
@@ -118,6 +136,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/recipe-page/recipepage-desktop-preview.jpg",
@@ -164,6 +191,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/social-links-profile/sociallinksprofile-desktop-preview.jpg",
         "preview_images": {
@@ -208,6 +244,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
@@ -254,6 +299,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
@@ -298,6 +352,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
@@ -344,6 +407,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
@@ -389,6 +461,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/youtube-coding-project-previews/nikeplandingpage-desktop-preview.png",
         "preview_images": {
@@ -413,7 +494,7 @@
         "trial": 0,
         "source": 0,
         "difficulty": 0,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -433,6 +514,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/bryan-projects-site/bryansprojectssite-desktop-preview_1.jpg",
@@ -458,7 +548,7 @@
         "trial": 0,
         "source": 0,
         "difficulty": 0,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -478,6 +568,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/bryan-certificates-site/bryanscertificatessite-desktop-preview_1.jpg",
@@ -524,6 +623,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rest-countries-website/restcountriesapiwithcolorthemeswitcher-desktop-preview.jpg",
         "preview_images": {
@@ -569,6 +677,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/lazycat-desktop-preview.jpg",
         "preview_images": {
@@ -593,7 +710,7 @@
         "trial": 0,
         "source": 0,
         "difficulty": 0,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -613,6 +730,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_1.jpg",
@@ -638,7 +764,7 @@
         "trial": 1,
         "source": 1,
         "difficulty": 5,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -658,6 +784,15 @@
             "figma_TF": true,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
@@ -683,7 +818,7 @@
         "trial": 1,
         "source": 0,
         "difficulty": 0,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -703,6 +838,15 @@
             "figma_TF": false,
             "postgresql_TF": true,
             "typescript_TF": true
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/nextjsdashboard-desktop-preview.jpg",
@@ -749,6 +893,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/blog-preview-card/blogpreviewcard-desktop-preview.jpg",
         "preview_images": {
@@ -793,6 +946,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/expanded-age-calc-edited.jpg",
@@ -839,6 +1001,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/pod-request-access-landing-page/podrequestaccesslandingpage-desktop-preview.jpg",
         "preview_images": {
@@ -883,6 +1054,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
@@ -929,6 +1109,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
         "preview_images": {
@@ -953,7 +1142,7 @@
         "trial": 1,
         "source": 1,
         "difficulty": 3,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -973,6 +1162,15 @@
             "figma_TF": true,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/space-tourism-website/spacetourismwebsite-desktop-preview.jpg",
@@ -1019,6 +1217,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/ping-single-column-coming-soon-page/pingsinglecolumncomingsoonpage-desktop-preview.jpg",
         "preview_images": {
@@ -1063,6 +1270,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/clipboard-landing-page/clipboardlandingpage-desktop-preview.jpg",
@@ -1109,6 +1325,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/room-homepage/roomhomepage-desktop-preview.jpg",
         "preview_images": {
@@ -1153,6 +1378,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/newsletter-signup-form-with-success-message/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
@@ -1199,6 +1433,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/single-price-grid-component/singlepricegridcomp-desktop-preview.jpg",
         "preview_images": {
@@ -1243,6 +1486,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
@@ -1289,6 +1541,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/huddle-landing-page-with-alternating-feature-blocks/huddlelandingpagewithalternatingfeatureblocks-desktop-preview.jpg",
         "preview_images": {
@@ -1333,6 +1594,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
@@ -1379,6 +1649,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
@@ -1424,6 +1703,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/profile-card-component/profilecardcomp-desktop-preview.jpg",
         "preview_images": {
@@ -1448,7 +1736,7 @@
         "trial": 1,
         "source": 1,
         "difficulty": 4,
-        "featured": false,
+        "featured": true,
         "technologies": {
             "html_TF": true,
             "css_TF": true,
@@ -1468,6 +1756,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-desktop-preview.jpg",
@@ -1514,6 +1811,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/expenses-chart-component/expenseschartcomp-desktop-preview.jpg",
         "preview_images": {
@@ -1558,6 +1864,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
@@ -1604,6 +1919,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-intermediate-previews/ip-address-tracker/ipaddresstracker-desktop-preview.jpg",
         "preview_images": {
@@ -1648,6 +1972,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/fylo-dark-theme-landing-page/fylodarkthemelandingpage-desktop-preview.jpg",
@@ -1694,6 +2027,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/interactive-rating-component/interactiveratingcomp-desktop-preview.jpg",
         "preview_images": {
@@ -1738,6 +2080,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
@@ -1784,6 +2135,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/tip-calculator-app/tipcalculatorapp-desktop-preview.jpg",
         "preview_images": {
@@ -1828,6 +2188,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/advice-generator-app/advicegeneratorapp-desktop-preview.jpg",
@@ -1874,6 +2243,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/age-calculator-app/agecalculatorapp-desktop-preview.jpg",
         "preview_images": {
@@ -1918,6 +2296,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/frontend-mentor-directory-edited.jpg",
@@ -1964,6 +2351,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/dev-tools-site-edited.jpg",
         "preview_images": {
@@ -2008,6 +2404,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/portfolio-site-v3-edited.jpg",
@@ -2054,6 +2459,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/single-price-grid-component/singlepricegridcomp-desktop-preview.jpg",
         "preview_images": {
@@ -2098,6 +2512,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/four-card-features-section/fourcardfeaturesection-desktop-preview.jpg",
@@ -2144,6 +2567,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/news-homepage/newshomepage-desktop-preview.jpg",
         "preview_images": {
@@ -2188,6 +2620,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/social-proof-section/socialproofsection-desktop-preview.jpg",
@@ -2234,6 +2675,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/fylo-data-storage-component/fylodatastoragecomp-desktop-preview.jpg",
         "preview_images": {
@@ -2278,6 +2728,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/time-tracking-dashboard/timetrackingdashboard-desktop-preview.jpg",
@@ -2324,6 +2783,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/testimonials-grids-section/testimonialsgridsection-desktop-preview.jpg",
         "preview_images": {
@@ -2368,6 +2836,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-junior-previews/newsletter-signup-form-with-success-message/newslettersignupformwithsuccessmessage-desktop-preview.jpg",
@@ -2414,6 +2891,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/article-preview-component/articlepreviewcomp-desktop-preview.jpg",
         "preview_images": {
@@ -2458,6 +2944,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/faq-accordion-card/faqaccordioncard-desktop-preview.jpg",
@@ -2504,6 +2999,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/stats-preview-card-component/statspreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
@@ -2548,6 +3052,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/nft-preview-card-component/nftpreviewcardcomp-desktop-preview.jpg",
@@ -2594,6 +3107,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/product-preview-card-component/productpreviewcardcomp-desktop-preview.jpg",
         "preview_images": {
@@ -2638,6 +3160,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/3-column-preview-card-component/3columnpreviewcardcomp-desktop-preview.jpg",
@@ -2684,6 +3215,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/results-summary-component/resultssummarycomp-desktop-preview.jpg",
         "preview_images": {
@@ -2728,6 +3268,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/profile-card-component/profilecardcomp-desktop-preview.jpg",
@@ -2774,6 +3323,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/order-summary-component/ordersummarycomp-desktop-preview.jpg",
         "preview_images": {
@@ -2818,6 +3376,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
         },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/interactive-rating-component/interactiveratingcomp-desktop-preview.jpg",
@@ -2864,6 +3431,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": true,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": true
+        },
         "site_icon": "",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-newbie-previews/qr-code-component/qrcodecomp-desktop-preview.jpg",
         "preview_images": {
@@ -2908,6 +3484,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/portfolio-site-v2-edited.jpg",
@@ -2954,6 +3539,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/youtube-coding-project-previews/react-to-do-list-edited.jpg",
         "preview_images": {
@@ -2999,6 +3593,15 @@
             "postgresql_TF": false,
             "typescript_TF": false
         },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
+        },
         "site_icon": "",
         "preview_image": "/project-previews/youtube-coding-project-previews/react-movie-catalogue-edited.jpg",
         "preview_images": {
@@ -3043,6 +3646,15 @@
             "figma_TF": false,
             "postgresql_TF": false,
             "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": true,
+            "school": false,
+            "collab": false,
+            "multi_page": false,
+            "single_page": true,
+            "components": false
         },
         "site_icon": "",
         "preview_image": "/project-previews/personal-project-previews/portfolio-site-v1-edited.jpg",

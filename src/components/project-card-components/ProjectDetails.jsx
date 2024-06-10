@@ -5,8 +5,8 @@ const imageSources = {
     2: { src: "/icons/project-source-icons/icodethis-logo.jpg", alt: "icodethis_icon" },
     3: { src: "/icons/project-source-icons/codewellcc-logo.jpg", alt: "codewellcc_icon" },
     4: { src: "/icons/project-source-icons/frontendpro-logo.png", alt: "frontendpro_icon" },
-    5: { src: "/icons/project-source-icons/youtube-svgrepo-com.svg", alt: "frontendpro_icon" },
-    6: { src: "/icons/project-source-icons/tapioca-logo.png", alt: "frontendpro_icon" },
+    5: { src: "/icons/project-source-icons/youtube-svgrepo-com.svg", alt: "youtube_icon" },
+    6: { src: "/icons/project-source-icons/tapioca-logo.png", alt: "tapioca_icon" },
 };
 
 const femLevels = [

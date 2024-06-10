@@ -1,5 +1,10 @@
+'use client'
+import { useDispatch, useSelector } from 'react-redux';
+import { setOptionsFilter, closePopup } from '@/lib/settings';
 
 export default function FilterOptions() {
+    const dispatch = useDispatch();
+    const { activeFilter, categoryFocus, popupCategoriesOpen } = useSelector(state => state.projects);
 
     const filterOptionsTechnology = [
         { iconClass: "las la-file-code", filterText: "HTML/CSS/SASS Excl." },
@@ -11,14 +16,14 @@ export default function FilterOptions() {
         { iconClass: "lab la-neos", filterText: "Next.js" },
         { iconClass: "lab la-vuejs", filterText: "Vue" },
         { iconClass: "las la-rocket", filterText: "Astro" },
-        { iconClass: "las la-route", filterText: "Wouter" }    
+        { iconClass: "las la-route", filterText: "Wouter" }
     ];
 
     const filterOptionsSource = [
         { iconClass: "las la-laptop-code", filterText: "Frontend Mentor" },
+        { iconClass: "las la-file-code", filterText: "iCodeThis" },
         { iconClass: "las la-check-circle", filterText: "Codewell" },
         { iconClass: "las la-user-tie", filterText: "Frontend Pro" },
-        { iconClass: "las la-file-code", filterText: "iCodeThis" },
         { iconClass: "las la-hammer", filterText: "Odin Project" },
         { iconClass: "las la-cocktail", filterText: "Tapioca" },
         { iconClass: "lab la-youtube", filterText: "YouTube" },
@@ -35,12 +40,13 @@ export default function FilterOptions() {
         { iconClass: "las la-meteor", filterText: "Recent" },
     ];
 
-    const renderFilterButtons = () => {
-        return filterOptionsTechnology.map((filter, index) => (
+    const renderFilterButtons = ({ filteringOptions, value }) => {
+        return filteringOptions.map((filter, index) => (
             <button
                 key={index}
                 aria-label={`${filter.filterText} Filter Option`}
-                className={`px-3 py-1 mx-1 text-white border-white border-2 border-solid rounded-md bg-white bg-opacity-0 hover:bg-opacity-15`}
+                className={`px-3 py-1 mx-1 text-white border-white border-2 border-solid rounded-md ${activeFilter - value === index ? 'bg-gradient-to-tr from-filter-gradient-1 to-filter-gradient-2' : 'bg-white bg-opacity-0 hover:bg-opacity-15'}`}
+                onClick={() => dispatch(setOptionsFilter(index + value))}
             >
                 <i className={`${filter.iconClass} mr-1`}></i>
                 {filter.filterText}
@@ -50,8 +56,17 @@ export default function FilterOptions() {
 
     return (
         <>
-            <div className="absolute z-[99999] top-[calc(100%)] mt-2 w-full max-w-[600px] flex justify-center flex-wrap gap-y-2 bg-light-gray bg-opacity-50 border-white border-4 border-solid rounded-lg p-2">
-                {renderFilterButtons()}
+            <div className={`absolute z-[99999] top-[calc(100%)] mt-2 w-full max-w-[600px] ${(categoryFocus === 2 || categoryFocus === 3 || categoryFocus === 4) && popupCategoriesOpen ? 'flex' : 'hidden'} justify-center flex-wrap gap-y-2 bg-light-gray bg-opacity-50 border-white border-4 border-solid rounded-lg p-2 overflow-hidden`}>
+                {categoryFocus === 2
+                    ? renderFilterButtons({ filteringOptions: filterOptionsTechnology, value: 100 })
+                    : categoryFocus === 3
+                        ? renderFilterButtons({ filteringOptions: filterOptionsSource, value: 200 })
+                        : renderFilterButtons({ filteringOptions: filterOptionsOther, value: 300 })
+                }
+
+                <button className="absolute top-0 right-0 w-4 h-4 bg-white rounded-bl-xl" onClick={() => dispatch(closePopup())}                >
+                    x
+                </button>
             </div>
         </>
     );
