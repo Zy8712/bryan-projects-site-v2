@@ -24,19 +24,22 @@ const projectsSlice = createSlice({
         state.activeCategory = 1;
         state.activeFilter = 1;
       }
-      else if (state.popupCategoriesOpen == true && (state.categoryFocus == state.activeCategory) && state.popupIndex == state.categoryFocus){
+      else if (state.popupCategoriesOpen == true && (state.categoryFocus == state.activeCategory) && state.popupIndex == state.categoryFocus) {
         state.popupCategoriesOpen = false;
         state.popupIndex = 0;
       }
-      else if(state.popupIndex == state.categoryFocus && state.popupCategoriesOpen == true){
+      else if (state.popupIndex == state.categoryFocus && state.popupCategoriesOpen == true) {
         state.popupCategoriesOpen = false;
         state.popupIndex = 0;
       }
-      else{
+      else {
         state.popupCategoriesOpen = true;
         state.popupIndex = state.categoryFocus;
       }
-      state.filteredProjects = filterProjects(state.categoryFocus);
+
+      if(state.categoryFocus < 2){
+        state.filteredProjects = filterProjects(state.categoryFocus);
+      }
     },
 
     setOptionsFilter(state, action) {
@@ -53,7 +56,7 @@ const projectsSlice = createSlice({
       state.filteredProjects = filterProjects(state.activeFilter);
     },
 
-    closePopup(state){
+    closePopup(state) {
       state.popupIndex = 0;
       state.popupCategoriesOpen = false;
     },
@@ -104,27 +107,26 @@ const filterProjects = (val) => {
 
   else if (val >= 300 && val < 400) {
     const otherFiltering = [
-        'tags.school',
-        'tags.collab',
-        'tags.freelance',
-        'tags.multi_page',
-        'tags.single_page',
-        'tags.components',
-        '' // This represents the "Latest 9 Projects" option
+      'tags.school',
+      'tags.collab',
+      'tags.freelance',
+      'tags.multi_page',
+      'tags.single_page',
+      'tags.components',
+      '' // This represents the "Latest 9 Projects" option
     ];
 
     const filterKey = otherFiltering[val - 300];
-    
-    if (val - 300 === 6) { // Check if it's the "Latest 9 Projects" option
-        filtered = filtered.slice(0, 9);
-    } else {
-        filtered = filtered.filter((project) => {
-            const keys = filterKey.split('.');
-            return keys.length === 2 ? project[keys[0]][keys[1]] : false;
-        });
-    }
-}
 
+    if (val - 300 === 6) { // Check if it's the "Latest 9 Projects" option
+      filtered = filtered.slice(0, 9);
+    } else {
+      filtered = filtered.filter((project) => {
+        const keys = filterKey.split('.');
+        return keys.length === 2 ? project[keys[0]][keys[1]] : false;
+      });
+    }
+  }
 
   return filtered;
 };
