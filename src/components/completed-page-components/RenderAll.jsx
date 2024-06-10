@@ -1,10 +1,12 @@
 import UltimateProjectCardPagination from "@/components/project-card-components/UltimateProjectCardPagination";
-import all_data from "@/data/all-projects.json";
+import { useSelector } from 'react-redux';
 
 export default function RenderAll() {
-    return (
-        <>
-            <UltimateProjectCardPagination data={all_data} />
-        </>
-    );
+  const filteredProjects = useSelector((state) => state.projects.filteredProjects);
+
+  return (
+    <>
+      <UltimateProjectCardPagination data={filteredProjects} />
+    </>
+  );
 }

@@ -1,12 +1,17 @@
 'use client'
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import ProjectPreview from "./ProjectPreview";
 import ProjectDetails from "./ProjectDetails";
 import ProjectPrimaryIcons from "./ProjectPrimaryIcons";
 import ProjectWorkLinks from "./ProjectWorkLinks";
 import PaginationControl from './PaginationControl';
+import { useSelector } from 'react-redux';
+
 
 export default function UltimateProjectCardPagination({ data }) {
+
+    const { activeFilter } = useSelector(state => state.projects);
+
     const [currentPage, setCurrentPage] = useState(1);
     const itemsPerPage = 9; // Number of items per page
 
@@ -29,6 +34,10 @@ export default function UltimateProjectCardPagination({ data }) {
             setCurrentPage(currentPage - 1);
         }
     };
+
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [activeFilter]);
 
     return (
         <>
