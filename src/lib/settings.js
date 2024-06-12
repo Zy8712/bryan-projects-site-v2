@@ -12,6 +12,8 @@ const initialState = {
 
   popupCategoriesOpen: false,
   popupIndex: 0,
+
+  
 };
 
 const projectsSlice = createSlice({
@@ -38,6 +40,7 @@ const projectsSlice = createSlice({
       }
 
       if(state.categoryFocus < 2){
+        state.popupCategoriesOpen = false;
         state.filteredProjects = filterProjects(state.categoryFocus);
       }
     },
