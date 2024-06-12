@@ -1,5 +1,5 @@
 
-export default function PaginationControl({setCurrentPage, handleNextPage, handlePrevPage, currentPage, totalPages}) {
+export default function PaginationControl({ setCurrentPage, handleNextPage, handlePrevPage, currentPage, totalPages }) {
     return (
         <>
             {/* Pagination controls */}
@@ -10,7 +10,7 @@ export default function PaginationControl({setCurrentPage, handleNextPage, handl
                     disabled={currentPage === 1}
                 >
                     <i className="las la-angle-double-left"></i>
-                    First
+                    <span className="hidden custom-sm-ex:inline">First</span>
                 </button>
                 <button
                     className="px-3 py-2 mx-1 bg-light-gray rounded disabled:opacity-50 hover:opacity-85"
@@ -18,7 +18,7 @@ export default function PaginationControl({setCurrentPage, handleNextPage, handl
                     disabled={currentPage === 1}
                 >
                     <i className="las la-angle-left"></i>
-                    Previous
+                    <span className="hidden custom-sm-ex:inline">Previous</span>
                 </button>
                 <span className="mx-2">Page {currentPage} of {totalPages}</span>
                 <button
@@ -26,7 +26,7 @@ export default function PaginationControl({setCurrentPage, handleNextPage, handl
                     onClick={handleNextPage}
                     disabled={currentPage === totalPages}
                 >
-                    Next
+                    <span className="hidden custom-sm-ex:inline">Next</span>
                     <i className="las la-angle-right"></i>
                 </button>
                 <button
@@ -34,7 +34,7 @@ export default function PaginationControl({setCurrentPage, handleNextPage, handl
                     onClick={() => setCurrentPage(totalPages)}
                     disabled={currentPage === totalPages}
                 >
-                    Last
+                    <span className="hidden custom-sm-ex:inline">Last</span>
                     <i className="las la-angle-double-right"></i>
                 </button>
             </div>
