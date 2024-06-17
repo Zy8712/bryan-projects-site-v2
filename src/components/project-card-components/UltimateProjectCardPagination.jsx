@@ -13,7 +13,7 @@ export default function UltimateProjectCardPagination({ data }) {
     const { activeFilter } = useSelector(state => state.projects);
 
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 9; // Number of items per page
+    const itemsPerPage = 12; // Number of items per page
 
     // Calculate the indices for the items to display on the current page
     const indexOfLastItem = currentPage * itemsPerPage;

@@ -4,9 +4,11 @@ import ProjectPrimaryIcons from "../project-card-components/ProjectPrimaryIcons"
 
 function UltimateFeaturedProjectCard({ data }) {
 
+    const featuredData = data.filter(item => item.featured === true);
+
     return (
         <>
-            {data.map((item, index) => (
+            {featuredData.map((item, index) => (
                 <FeaturedProjectCard key={index} data={item} index={index} />
             ))}
         </>

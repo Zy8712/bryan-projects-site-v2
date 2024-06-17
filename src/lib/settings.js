@@ -13,7 +13,7 @@ const initialState = {
   popupCategoriesOpen: false,
   popupIndex: 0,
 
-  
+  searchBarQuery: "",
 };
 
 const projectsSlice = createSlice({
@@ -70,6 +70,10 @@ const projectsSlice = createSlice({
       state.activeCategory = 0;
       state.filteredProjects = allProjects;
     },
+
+    setSearchQuery(state, action){
+      state.searchBarQuery = action.payload;
+    },
   },
 });
 
@@ -116,13 +120,13 @@ const filterProjects = (val) => {
       'tags.multi_page',
       'tags.single_page',
       'tags.components',
-      '' // This represents the "Latest 9 Projects" option
+      '' // This represents the "Latest 12 Projects" option
     ];
 
     const filterKey = otherFiltering[val - 300];
 
-    if (val - 300 === 6) { // Check if it's the "Latest 9 Projects" option
-      filtered = filtered.slice(0, 9);
+    if (val - 300 === 6) { // Check if it's the "Latest 12 Projects" option
+      filtered = filtered.slice(0, 12);
     } else {
       filtered = filtered.filter((project) => {
         const keys = filterKey.split('.');
@@ -139,6 +143,7 @@ export const {
   setOptionsFilter,
   closePopup,
   resetFilters,
+  setSearchQuery,
 } = projectsSlice.actions;
 
 export default projectsSlice.reducer;
