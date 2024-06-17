@@ -35,8 +35,8 @@ export default function FilterOptions() {
         { iconClass: "las la-hands-helping", filterText: "Collab" },
         { iconClass: "las la-business-time", filterText: "Freelance" },
         { iconClass: "las la-layer-group", filterText: "Multi-page" },
-        { iconClass: "las la-layer-group", filterText: "Single Page" },
-        { iconClass: "las la-layer-group", filterText: "Components" },
+        { iconClass: "las la-file", filterText: "Single Page" },
+        { iconClass: "las la-cubes", filterText: "Components" },
         { iconClass: "las la-meteor", filterText: "Recent" },
     ];
 
