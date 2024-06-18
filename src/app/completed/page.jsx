@@ -21,7 +21,6 @@ export default function Completed() {
 
                     <FilterCategories />
 
-
                     <ProjectCardContainer>
                         <RenderAll />
                     </ProjectCardContainer>

@@ -24,7 +24,7 @@ export default function SearchFilter() {
                         type="text"
                         placeholder="Search by project name or technology..."
                         value={searchBarQuery}
-                        className="w-full h-full ps-20 text-white font-theme-oxanium bg-transparent rounded-full focus:bg-gradient-to-tr from-gradient-blue to-gradient-purple focus:text-white placeholder:text-white focus:outline-none"
+                        className={`w-full h-full ps-20 text-white font-theme-oxanium bg-transparent rounded-full focus:bg-gradient-to-tr from-gradient-blue to-gradient-purple focus:text-white placeholder:text-white focus:outline-none ${searchBarQuery != '' ? 'bg-gradient-to-tr' : ''}`}
                         onChange={handleInputChange}
                     />
                     
