@@ -39,7 +39,7 @@ export default function ProjectDetails(props) {
             {props.source !== 0 && imageSource && (
                 <div className={`w-9 h-9 flex flex-col justify-start items-end absolute top-0 right-0 
                     bg-gradient-to-tr from-light-gray to-white hover:bg-gradient-to-tr hover:from-gradient-blue hover:to-gradient-purple rounded-bl-full`}>
-                    <div className="mt-[1px] mr-[2px] w-7 h-7 flex flex-col justify-start items-end">
+                    <div className="mt-[2px] mr-[2px] w-7 h-7 flex flex-col justify-start items-end">
                         <a href={props.links.challenge_link} target="_blank" rel="noopener noreferrer">
                             <Image
                                 src={imageSource.src}

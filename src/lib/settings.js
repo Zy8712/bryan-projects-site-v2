@@ -39,7 +39,11 @@ const projectsSlice = createSlice({
         state.popupIndex = state.categoryFocus;
       }
 
-      if(state.categoryFocus < 2){
+      if(state.categoryFocus != -2 && state.searchBarQuery != ""){
+        state.searchBarQuery = "";
+      }
+
+      if (state.categoryFocus < 2) {
         state.popupCategoriesOpen = false;
         state.filteredProjects = filterProjects(state.categoryFocus);
       }
@@ -69,10 +73,27 @@ const projectsSlice = createSlice({
       state.categoryFocus = 0;
       state.activeCategory = 0;
       state.filteredProjects = allProjects;
+
+      if(state.searchBarQuery != ""){
+        state.searchBarQuery = "";
+      }
     },
 
-    setSearchQuery(state, action){
+    setSearchQuery(state, action) {
       state.searchBarQuery = action.payload;
+      if (state.searchBarQuery != "") {
+        state.activeFilter = -2;
+        state.categoryFocus = -2;
+        state.activeCategory = -2;
+
+        state.filteredProjects = filterBySearch(state.searchBarQuery);
+      }
+      else {
+        state.activeFilter = 0;
+        state.categoryFocus = 0;
+        state.activeCategory = 0;
+        state.filteredProjects = allProjects;
+      }
     },
   },
 });
@@ -134,6 +155,17 @@ const filterProjects = (val) => {
       });
     }
   }
+
+  return filtered;
+};
+
+const filterBySearch = (searchQ) => {
+  let filtered = allProjects;
+
+  filtered = allProjects.filter(project =>
+    project.name.toLowerCase().includes(searchQ.toLowerCase()) ||
+    Object.keys(project.technologies).some(tech => project.technologies[tech] && tech.toLowerCase().includes(searchQ.toLowerCase()))
+  );
 
   return filtered;
 };
