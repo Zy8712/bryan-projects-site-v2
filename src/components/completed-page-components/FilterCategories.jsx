@@ -1,11 +1,12 @@
 'use client'
-import FilterOptions from "@/components/completed-page-components/FilterOptions";
 import { useDispatch, useSelector } from 'react-redux';
 import { setCategoryFilter, resetFilters } from '@/lib/settings';
+import FilterOptions from "@/components/completed-page-components/FilterOptions";
+import ActiveFilterText from "./ActiveFilterText";
 
 export default function FilterCategories() {
     const dispatch = useDispatch();
-    const { activeCategory, activeFilter, categoryFocus, popupCategoriesOpen } = useSelector(state => state.projects);
+    const { activeCategory, categoryFocus, popupCategoriesOpen } = useSelector(state => state.projects);
 
     const filterCategoryOptions = [
         { iconClass: "las la-expand", filterText: "All" },
@@ -53,8 +54,8 @@ export default function FilterCategories() {
                 <FilterOptions />
             </div>
 
-            <div className={`my-9 w-full flex justify-center font-medium text-white text-lg`}>
-                {activeFilter}
+            <div className={`my-9 w-full ${popupCategoriesOpen ? 'opacity-0' : 'opacity-100'} flex justify-center font-medium text-white text-lg`}>
+                <ActiveFilterText />
             </div>
         </>
     );
