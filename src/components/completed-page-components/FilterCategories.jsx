@@ -1,20 +1,13 @@
 'use client'
 import { useDispatch, useSelector } from 'react-redux';
 import { setCategoryFilter, resetFilters } from '@/lib/settings';
+import { filterCategoryOptions } from "@/utils/filterIcons";
 import FilterOptions from "@/components/completed-page-components/FilterOptions";
 import ActiveFilterText from "./ActiveFilterText";
 
 export default function FilterCategories() {
     const dispatch = useDispatch();
     const { activeCategory, categoryFocus, popupCategoriesOpen } = useSelector(state => state.projects);
-
-    const filterCategoryOptions = [
-        { iconClass: "las la-expand", filterText: "All" },
-        { iconClass: "las la-star", filterText: "Featured" },
-        { iconClass: "las la-toolbox", filterText: "Technology" },
-        { iconClass: "las la-lightbulb", filterText: "Source" },
-        { iconClass: "las la-plus", filterText: "" }
-    ];
 
     const handleFilterClick = (index) => {
         if (index === 0) {
