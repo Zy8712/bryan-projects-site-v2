@@ -1,44 +1,13 @@
 'use client'
 import { useDispatch, useSelector } from 'react-redux';
 import { setOptionsFilter, closePopup } from '@/lib/settings';
+import { filterOptionsTechnology, filterOptionsSource, filterOptionsOther } from "@/utils/filterIcons"; 
 
 export default function FilterOptions() {
     const dispatch = useDispatch();
     const { activeFilter, categoryFocus, popupCategoriesOpen } = useSelector(state => state.projects);
 
-    const filterOptionsTechnology = [
-        { iconClass: "las la-file-code", filterText: "HTML/CSS/SASS Excl." },
-        { iconClass: "lab la-js-square", filterText: "Vanilla JS" },
-        { iconClass: "lab la-react", filterText: "React" },
-        { iconClass: "las la-wind", filterText: "Tailwind CSS" },
-        { iconClass: "las la-file-alt", filterText: "JSON" },
-        { iconClass: "las la-cog", filterText: "API" },
-        { iconClass: "lab la-neos", filterText: "Next.js" },
-        { iconClass: "lab la-vuejs", filterText: "Vue" },
-        { iconClass: "las la-rocket", filterText: "Astro" },
-        { iconClass: "las la-route", filterText: "Wouter" }
-    ];
 
-    const filterOptionsSource = [
-        { iconClass: "las la-laptop-code", filterText: "Frontend Mentor" },
-        { iconClass: "las la-file-code", filterText: "iCodeThis" },
-        { iconClass: "las la-check-circle", filterText: "Codewell" },
-        { iconClass: "las la-user-tie", filterText: "Frontend Pro" },
-        { iconClass: "las la-hammer", filterText: "Odin Project" },
-        { iconClass: "las la-cocktail", filterText: "Tapioca" },
-        { iconClass: "lab la-youtube", filterText: "YouTube" },
-        { iconClass: "las la-user", filterText: "Personal" }
-    ];
-
-    const filterOptionsOther = [
-        { iconClass: "las la-university", filterText: "School" },
-        { iconClass: "las la-hands-helping", filterText: "Collab" },
-        { iconClass: "las la-business-time", filterText: "Freelance" },
-        { iconClass: "las la-layer-group", filterText: "Multi-page" },
-        { iconClass: "las la-file", filterText: "Single Page" },
-        { iconClass: "las la-cubes", filterText: "Components" },
-        { iconClass: "las la-meteor", filterText: "Recent" },
-    ];
 
     const renderFilterButtons = ({ filteringOptions, value }) => {
         return filteringOptions.map((filter, index) => (

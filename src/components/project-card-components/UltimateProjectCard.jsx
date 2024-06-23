@@ -1,10 +1,6 @@
 'use client'
-
 import React, { useEffect, useState, useRef } from "react";
-import ProjectPreview from "./ProjectPreview";
-import ProjectDetails from "./ProjectDetails";
-import ProjectPrimaryIcons from "./ProjectPrimaryIcons";
-import ProjectWorkLinks from "./ProjectWorkLinks";
+import { ProjectPreview, ProjectDetails, ProjectPrimaryIcons, ProjectWorkLinks } from "@/utils/projectCardComponents";
 
 export default function UltimateProjectCard({ data }) {
     const [visibleProjects, setVisibleProjects] = useState([]);

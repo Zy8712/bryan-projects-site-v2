@@ -1,12 +1,7 @@
 'use client'
 import React, { useState, useEffect } from 'react';
-import ProjectPreview from "./ProjectPreview";
-import ProjectDetails from "./ProjectDetails";
-import ProjectPrimaryIcons from "./ProjectPrimaryIcons";
-import ProjectWorkLinks from "./ProjectWorkLinks";
-import PaginationControl from './PaginationControl';
 import { useSelector } from 'react-redux';
-
+import { ProjectPreview, ProjectDetails, ProjectPrimaryIcons, ProjectWorkLinks, PaginationControl } from "@/utils/projectCardComponents";
 
 export default function UltimateProjectCardPagination({ data }) {
 

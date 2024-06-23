@@ -1,6 +1,6 @@
 'use client'
 import { useState } from "react";
-import ProjectPrimaryIcons from "../project-card-components/ProjectPrimaryIcons";
+import { ProjectPrimaryIcons } from "@/utils/projectCardComponents";
 
 function UltimateFeaturedProjectCard({ data }) {
 
