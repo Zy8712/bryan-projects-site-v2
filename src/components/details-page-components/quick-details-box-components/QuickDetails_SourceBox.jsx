@@ -1,17 +1,8 @@
 import Image from "next/image";
-
-const imageSources = {
-    0: { src: "/icons/project-source-icons/idea-man-person-svgrepo-com.svg", alt: "original_icon", name: "Original" },
-    1: { src: "/icons/project-source-icons/frontend-mentor-logo-transparent.png", alt: "frontendmentor_icon", name: "Frontend Mentor" },
-    2: { src: "/icons/project-source-icons/icodethis-logo.jpg", alt: "icodethis_icon", name: "iCodeThis" },
-    3: { src: "/icons/project-source-icons/codewellcc-logo.jpg", alt: "codewellcc_icon", name: "Codewell.cc" },
-    4: { src: "/icons/project-source-icons/frontendpro-logo.png", alt: "frontendpro_icon", name: "FrontendPro" },
-    5: { src: "/icons/project-source-icons/youtube-svgrepo-com.svg", alt: "youtube_icon", name: "YouTube" },
-    6: { src: "/icons/project-source-icons/tapioca-logo.png", alt: "tapioca_icon", name: "Tapioca" },
-};
+import { projectSources } from "@/utils/projectSources";
 
 export default function QuickDetails_SourceBox(props) {
-    const imageSource = imageSources[props.source] || null;
+    const imageSource = projectSources[props.source] || null;
 
     return (
         <>
