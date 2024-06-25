@@ -41,7 +41,7 @@ export default function HomeHero() {
                             </h1>
 
                             <p className="mt-8 w-full max-w-[750px] text-white font-theme-oxanium text-lg">
-                                Explore my completed, ongoing, and upcoming projects. From design to code to the final product, see how each idea comes to life. Check out featured items, follow the progress of current projects, and get a sneak peek at what's next. Dive in and discover the journey from concept to completion!
+                                Explore my completed, ongoing, and upcoming projects. From design to code to the final product, see how each idea comes to life. Check out featured items, follow the progress of current projects, and get a sneak peek at what&apos;s next. Dive in and discover the journey from concept to completion!
                             </p>
 
                             <div className="mt-8 w-[400px] h-12 flex justify-between font-theme-orbitron text-white">
