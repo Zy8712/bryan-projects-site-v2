@@ -1,0 +1,16 @@
+export const externalLinks = [
+    { name: "GitHub", userID: "Zy8712", link: "https://github.com/Zy8712", icon: "", },
+    { name: "LinkedIn", userID: "bryan-li712", link: "https://www.linkedin.com/in/bryan-li712/", icon: "",  },
+    { name: "Frontend Mentor", userID: "Zy8712", link: "https://www.frontendmentor.io/profile/Zy8712", icon: "", },
+    { name: "LeetCode", userID: "Zy8712", link: "https://leetcode.com/Zy8712/", icon: "",  },
+    { name: "Sololearn", userID: "Bryan Li", link: "https://www.sololearn.com/en/profile/31735834", icon: "", },
+    { name: "Credly", userID: "bryan-li712", link: "https://www.credly.com/users/bryan-li712", icon: "", },
+    { name: "Holopin", userID: "@bryanli712", link: "https://www.holopin.io/@bryanli712#", icon: "",  },
+    { name: "Medium", userID: "bryan-li712", link: "https://medium.com/@bryan-li712", icon: "",  },
+    { name: "CodeChef", userID: "Zy8712", link: "https://www.codechef.com/users/zy8712", icon: "",  },
+    { name: "freeCodeCamp", userID: "bryan-li712", link: "https://www.freecodecamp.org/bryan-li712", icon: "", },
+    { name: "Duolingo", userID: "bryanli712", link: "https://www.duolingo.com/profile/bryanli712", icon: "", },
+    { name: "Portfolio Site", userID: "", link: "", icon: "", },
+    { name: "Certificate Site", userID: "", link: "", icon: "", },
+    { name: "Project Site", userID: "", link: "", icon: "", },
+];
