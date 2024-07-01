@@ -52,6 +52,10 @@ export default function Details({ params }) {
             </div>
 
             <div className="mt-8 w-full h-96 border-white border-2 border-solid">
+                other trials
+            </div>
+
+            <div className="mt-8 w-full h-96 border-white border-2 border-solid">
                 similar projects
             </div>
 

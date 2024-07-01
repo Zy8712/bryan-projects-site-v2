@@ -1,9 +1,9 @@
 import HomePage_Hero from "@/components/home-page-components/HomePage_Hero";
-import TechStack from "@/components/home-page-components/TechStack";
-import ProjectSources from "@/components/home-page-components/ProjectSources";
-import SiteFeatures from "@/components/home-page-components/SiteFeatures";
-import ExternalLinks from "@/components/home-page-components/ExternalLinks";
-import ContactForm from "@/components/home-page-components/ContactForm";
+import HomePage_TechStack from "@/components/home-page-components/HomePage_TechStack";
+import HomePage_ProjectSources from "@/components/home-page-components/HomePage_ProjectSources";
+import HomePage_SiteFeatures from "@/components/home-page-components/HomePage_SiteFeatures";
+import HomePage_Links from "@/components/home-page-components/HomePage_Links";
+import HomePage_MessageForm from "@/components/home-page-components/HomePage_MessageForm";
 
 import ExploreOngoing from "@/components/shared-components/ExploreOngoing";
 
@@ -12,17 +12,17 @@ export default function Home() {
     <>
         <HomePage_Hero />
 
-        <TechStack />
+        <HomePage_TechStack />
 
-        <ProjectSources />
+        <HomePage_ProjectSources />
 
         <ExploreOngoing />
 
-        <SiteFeatures />
+        <HomePage_SiteFeatures />
 
-        <ExternalLinks />
+        <HomePage_Links />
 
-        <ContactForm />
+        <HomePage_MessageForm />
     </>
   );
 }
