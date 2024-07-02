@@ -18,7 +18,7 @@ export default function HomePage_MessageForm() {
 
                     <div className="relative w-full md:w-1/3 h-96 md:h-auto overflow-hidden">
                         <DotLottieReact
-                            src="/animations/Animation-1719178318069.lottie"
+                            src="/animations/lottie_ver/Animation-1719178318069.lottie"
                             loop
                             autoplay
                             speed={0.5}
