@@ -15,7 +15,7 @@ export default function HomeHero() {
                     <div className="w-full max-w-full custom-xl:max-w-[600px] h-full min-h-72 custom-sm-ex:min-h-[375px] custom-xl:min-h-[890px] flex flex-col justify-end custom-xl:justify-center items-center">
                         <div className="relative w-full custom-xl:max-w-full h-80 custom-sm-ex:h-[375px] custom-xl:h-[475px] overflow-hidden">
                             <DotLottieReact
-                                src="/animations/lottie_ver/Animation1719195618226.lottie"
+                                src="/animations/lottie_ver/Animation-1719195618226.lottie"
                                 loop={false}
                                 autoplay
                                 speed={0.4}
