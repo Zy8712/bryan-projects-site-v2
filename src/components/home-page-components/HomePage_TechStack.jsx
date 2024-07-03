@@ -7,7 +7,7 @@ export default function HomePage_TechStack() {
         <>
             <HomePageSectionLayout>
 
-                <HomePageSectionHeader>Tech Stack</HomePageSectionHeader>
+                <HomePageSectionHeader>Technology</HomePageSectionHeader>
                 <div className="flex justify-around flex-wrap gap-y-6">
                     {techIcons.map((tech, index) => (
                         <div key={index} className="mx-5 w-36 h-36 grid place-items-center bg-white bg-opacity-20 rounded-lg shadow-lg">
