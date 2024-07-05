@@ -5,7 +5,7 @@ import HomePage_SiteFeatures from "@/components/home-page-components/HomePage_Si
 import HomePage_Links from "@/components/home-page-components/HomePage_Links";
 import HomePage_MessageForm from "@/components/home-page-components/HomePage_MessageForm";
 
-import ExploreOngoing from "@/components/shared-components/ExploreOngoing";
+import ExploreProjectCategories from "@/components/shared-components/ExploreProjectCategories";
 
 export default function Home() {
   return (
@@ -16,7 +16,7 @@ export default function Home() {
 
         <HomePage_ProjectSources />
 
-        <ExploreOngoing />
+        <ExploreProjectCategories />
 
         <HomePage_SiteFeatures />
 
