@@ -7,8 +7,6 @@ export default function FilterOptions() {
     const dispatch = useDispatch();
     const { activeFilter, categoryFocus, popupCategoriesOpen } = useSelector(state => state.projects);
 
-
-
     const renderFilterButtons = ({ filteringOptions, value }) => {
         return filteringOptions.map((filter, index) => (
             <button
