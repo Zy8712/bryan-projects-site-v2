@@ -29,13 +29,13 @@ export default function OtherTrialsProjectSuggestion(props) {
                         <button className="absolute left-0 z-10 p-2" onClick={scrollLeft}>←</button>
                         <div className="min-w-full h-full flex gap-x-5 overflow-x-hidden" ref={containerRef}>
                             {filteredProjects.map((project, index) => (
-                                <UltimateProjectCard project={project} index={index} />
+                                <UltimateProjectCard project={project} key={index} />
                             ))}
                         </div>
                         <button className="absolute right-0 z-10 p-2" onClick={scrollRight}>→</button>
                     </>
                 ) : (
-                    <p>No projects found with the name "{name}" and a different ID than "{id}".</p>
+                    <p>No projects found with the name &quot;{name}&quot; and a different ID than &quot;{id}&quot;.</p>
                 )}
 
             </div>
