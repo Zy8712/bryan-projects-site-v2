@@ -38,7 +38,7 @@ export default function UltimateProjectCardPagination({ data }) {
     return (
         <>
             {currentItems.map((project, index) => (
-                <UltimateProjectCard project={project} index={index} />
+                <UltimateProjectCard project={project} key={index} />
             ))}
 
             <div className="w-full mt-3">

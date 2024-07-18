@@ -45,7 +45,7 @@ export default function UltimateProjectCardInfiniteScroll({ data }) {
     return (
         <>
             {visibleProjects.map((project, index) => (
-                <UltimateProjectCard project={project} index={index} />
+                <UltimateProjectCard project={project} key={index} />
             ))}
             <div className="load-more-trigger absolute bottom-0 right-0"></div>
         </>
