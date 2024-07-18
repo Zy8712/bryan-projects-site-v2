@@ -94,14 +94,14 @@
             "single_page": false,
             "components": false
         },
-        "site_icon": "",
+        "site_icon": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/arch-logo-capture.PNG",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-desktop-preview.jpg",
         "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
+            "num_1": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-desktop-preview.jpg",
+            "num_2": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-inner-pages.jpg",
+            "num_3": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-tablet-preview.jpg",
+            "num_4": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-mobile-preview.jpg",
+            "num_5": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/"
         },
         "links": {
             "github_link": "https://github.com/Zy8712/arch-studio-website",
@@ -809,14 +809,14 @@
             "single_page": false,
             "components": false
         },
-        "site_icon": "",
+        "site_icon": "/project-previews/personal-project-previews/portfolio-site/dragon-svgrepo-com.svg",
         "preview_image": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_1.jpg",
         "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
-            "num_4": "",
-            "num_5": ""
+            "num_1": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_1.jpg",
+            "num_2": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_2.jpg",
+            "num_3": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_3.jpg",
+            "num_4": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_4.jpg",
+            "num_5": "/project-previews/personal-project-previews/portfolio-site/bryanliportfoliosite-desktop-preview_5.jpg"
         },
         "links": {
             "github_link": "https://github.com/Zy8712/bryan-li",
@@ -919,7 +919,7 @@
             "single_page": false,
             "components": false
         },
-        "site_icon": "",
+        "site_icon": "/icons/language-icons/nextjs-fill-svgrepo-com.svg",
         "preview_image": "/project-previews/personal-project-previews/nextjsdashboard-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",
@@ -1854,7 +1854,7 @@
             "single_page": true,
             "components": false
         },
-        "site_icon": "",
+        "site_icon": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rock-paper-scissors-logo.png",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-desktop-preview.jpg",
         "preview_images": {
             "num_1": "",

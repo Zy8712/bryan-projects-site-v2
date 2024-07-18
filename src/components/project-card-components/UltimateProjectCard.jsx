@@ -1,68 +1,21 @@
-'use client'
-import React, { useEffect, useState, useRef } from "react";
 import { ProjectPreview, ProjectDetails, ProjectPrimaryIcons, ProjectWorkLinks } from "@/utils/projectCardComponents";
 
-export default function UltimateProjectCard({ data }) {
-    const [visibleProjects, setVisibleProjects] = useState([]);
-    const [loadedProjects, setLoadedProjects] = useState(12);
-    const observer = useRef();
-
-    useEffect(() => {
-        const handleObserver = (entries) => {
-            const target = entries[0];
-            if (target.isIntersecting && loadedProjects < data.length) {
-                setLoadedProjects(prevLoadedProjects => prevLoadedProjects + 6);
-            }
-        };
-
-        observer.current = new IntersectionObserver(handleObserver, {
-            root: null,
-            rootMargin: "20px",
-            threshold: 1.0
-        });
-
-        const target = document.querySelector(".load-more-trigger");
-        if (target) {
-            observer.current.observe(target);
-        }
-
-        return () => {
-            if (target) {
-                observer.current.unobserve(target);
-            }
-        };
-    }, [loadedProjects, data]);
-
-    useEffect(() => {
-        setVisibleProjects(data.slice(0, loadedProjects));
-    }, [data, loadedProjects]);
-
-    // Reset loadedProjects to 12 when data changes
-    useEffect(() => {
-        setLoadedProjects(12);
-    }, [data]);
-
+export default function UltimateProjectCard({ project, index }) {
     return (
         <>
-            {visibleProjects.map((item, index) => (
-                <div
-                    className="group box w-[360px] custom-sm:w-[400px] h-[470px] custom-sm:h-[505px] overflow-hidden font-theme-rubik bg-white rounded-2xl border-none mb-8 cursor-pointer relative hover:shadow-2xl hover:shadow-white"
-                    key={index}
-                >
-                    <div className="w-full h-[252.3px] custom-sm:h-[293.333333px]">
-                        <ProjectPreview {...item} />
-                    </div>
-
-                    <div className={`h-[217.7px] custom-sm:h-[211.67px] text-white flex flex-col relative bg-gradient-to-b from-light-gray to-very-dark-blue`}>
-                        <ProjectDetails {...item}>
-                            <ProjectPrimaryIcons {...item.technologies} />
-                        </ProjectDetails>
-
-                        <ProjectWorkLinks {...item} />
-                    </div>
+            <div className="group relative mb-8 flex-shrink-0 flex-grow-0 w-[360px] custom-sm:w-[400px] h-[470px] custom-sm:h-[505px] overflow-hidden font-theme-rubik bg-white rounded-2xl 
+                border-none hover:shadow-2xl hover:shadow-white cursor-pointer" key={index}>
+                <div className="w-full h-[252.3px] custom-sm:h-[293.333333px]">
+                    <ProjectPreview {...project} />
                 </div>
-            ))}
-            <div className="load-more-trigger absolute bottom-0 right-0"></div>
+
+                <div className="relative h-[217.7px] custom-sm:h-[211.67px] flex flex-col bg-gradient-to-b from-light-gray to-very-dark-blue text-white ">
+                    <ProjectDetails {...project}>
+                        <ProjectPrimaryIcons {...project.technologies} />
+                    </ProjectDetails>
+                    <ProjectWorkLinks {...project} />
+                </div>
+            </div>
         </>
     );
 }

@@ -1,8 +1,9 @@
 import DetailsPageLayout from "@/layouts/DetailsPageLayout";
 import all_projects_data from "@/data/all-projects.json";
 import DetailsPage_Header from "@/components/details-page-components/DetailsPage_Header";
-import OverviewBox from "@/components/details-page-components/OverviewBox";
-import QuickDetailsBox from "@/components/details-page-components/QuickDetailsBox";
+import OverviewBox from "@/components/details-page-components/overview-box-components/OverviewBox";
+import QuickDetailsBox from "@/components/details-page-components/quick-details-box-components/QuickDetailsBox";
+import OtherTrialsProjectSuggestion from "@/components/details-page-components/OtherTrialsProjectSuggestion";
 
 export default function Details({ params }) {
 
@@ -19,7 +20,6 @@ export default function Details({ params }) {
             <div className="mt-10 w-full h-full flex justify-around custom-xl:justify-between flex-wrap gap-y-5">
 
                 <OverviewBox {...project} />
-
 
                 <div className="w-[calc(100%-680px)] min-w-80 h-80 flex flex-col items-center font-theme-barlow bg-white bg-opacity-20 p-3 rounded-3xl">
 
@@ -51,9 +51,7 @@ export default function Details({ params }) {
                 preview images / gallery
             </div>
 
-            <div className="mt-8 w-full h-96 border-white border-2 border-solid">
-                other trials
-            </div>
+            <OtherTrialsProjectSuggestion {...project} />
 
             <div className="mt-8 w-full h-96 border-white border-2 border-solid">
                 similar projects

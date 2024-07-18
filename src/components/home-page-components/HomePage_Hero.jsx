@@ -41,7 +41,7 @@ export default function HomeHero() {
                             </h1>
 
                             <p className="mt-6 custom-lg:mt-8 w-full max-w-[600px] md:max-w-[750px] text-white font-theme-oxanium text-sm custom-sm:text-base custom-lg:text-lg px-5 custom-sm-ex:px-0">
-                                Explore my completed, ongoing, and upcoming projects. From design to code to the final product, see how each idea comes to life.{' '}
+                                Explore my completed, ongoing, and upcoming projects. From design to code, to the final product, see how each idea comes to life.{' '}
                                 <span className="hidden custom-sm-ex:inline">
                                     Check out featured items, follow the progress of current projects, and get a sneak peek at what&apos;s next. Dive in and discover the journey from concept to completion!
                                 </span>

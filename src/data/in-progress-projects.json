@@ -151,5 +151,60 @@
             "website_preview_link": "",
             "challenge_link": ""
         }
+    },
+    {
+        "id": "BL-AUDIOPHILE-E-COMMERCE-WEBSITE-02",
+        "name": "Audiophile E-Commerce Website",
+        "date": "",
+        "project_status": "Ongoing",
+        "project_description": "Audio hardware ecommerce site. Effortlessly manage your shopping with a user-friendly cart. Add, remove, and adjust items, while keeping track of your bill. The site adapts smoothly to different devices for a hassle-free experience. Your cart stays put, even after refreshing the browser. Experience audio shopping made easy!",
+        "completion_time_hours" : "",
+        "trial": 2,
+        "source": 1,
+        "difficulty": 5,
+        "featured": false,
+        "technologies": {
+            "html_TF": false,
+            "css_TF": true,
+            "javascript_TF": true,
+            "sass_TF": false,
+            "astro_TF": false,
+            "react_TF": true,
+            "tailwindcss_TF": true,
+            "bootstrap_TF": false,
+            "json_TF": true,
+            "api_TF": false,
+            "redux_TF": true,
+            "wouter_TF": false,
+            "nextjs_TF": true,
+            "angular_TF": false,
+            "vue_TF": false,
+            "figma_TF": true,
+            "postgresql_TF": false,
+            "typescript_TF": false
+        },
+        "tags": {
+            "html_css_sass_excl": false,
+            "vanilla_js": false,
+            "school": false,
+            "collab": false,
+            "multi_page": true,
+            "single_page": false,
+            "components": false
+        },
+        "site_icon": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/headphones-svgrepo-com.svg",
+        "preview_image": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
+        "preview_images": {
+            "num_1": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-desktop-preview.jpg",
+            "num_2": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-inner-pages.jpg",
+            "num_3": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-checkout-flow.jpg",
+            "num_4": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-tablet-design.jpg",
+            "num_5": "/project-previews/frontend-mentor-project-previews/fem-guru-previews/audiophile-ecommerce-website/audiophileecommercewebsite-mobile-design.jpg"
+        },
+        "links": {
+            "github_link": "",
+            "website_preview_link": "",
+            "challenge_link": "https://www.frontendmentor.io/challenges/audiophile-ecommerce-website-C8cuSd_wx"
+        }
     }
 ]
