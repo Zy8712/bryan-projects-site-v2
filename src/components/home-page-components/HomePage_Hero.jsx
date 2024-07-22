@@ -21,6 +21,7 @@ export default function HomeHero() {
                                 speed={0.4}
                                 className="absolute top-[50%] -translate-y-[50%] left-[50%] -translate-x-[50%] w-[calc(100%+750px)] max-w-[800px] custom-sm-ex:max-w-[1000px] custom-xl:max-w-[1400px]"
                             />
+                            <img src="/icons/work-in-progress.png" className="absolute bottom-0 right-0 w-20" />
                         </div>
                     </div>
 
