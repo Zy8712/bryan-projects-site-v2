@@ -17,11 +17,12 @@ function UltimateFeaturedProjectCard({ data }) {
 
 function FeaturedProjectCard({ data, index }) {
     const [currImage, setCurrImage] = useState(0);
+    const projSources  = ["Original", "Frontend Mentor", "iCodeThis", "Codewell.cc", "FrontendPro", "YouTube", "Tapioca", "Odin Project"];
 
     const renderPreviews = () => {
         return Object.values(data.preview_images).map((preview, index) => (
-            <button key={index} aria-label={`Project Preview Option ${index}`} onClick={() => setCurrImage(index)} className={`rounded-md border-2 border-solid ${currImage === index ? 'border-very-dark-blue' : 'border-white'}`}>
-                <img src={preview} className="w-[85px] rounded-md" alt={`Preview ${index}`} />
+            <button key={index} aria-label={`Project Preview Option ${index}`} onClick={() => setCurrImage(index)} className={`${preview == "" ? 'hidden' : ''} min-h-14 rounded-md border-2 border-solid ${currImage === index ? 'border-very-dark-blue' : 'border-white'}`}>
+                <img src={preview} className="w-[85px] rounded-md" alt={``} />
             </button>
         ));
     };
@@ -63,8 +64,8 @@ function FeaturedProjectCard({ data, index }) {
 
                     <p className="text-white text-md font-semibold">Project Source:&nbsp;
                         <a href={data.links.challenge_link} target="__blank"
-                            className="text-gradient-blue uppercase underline underline-offset-2 hover:cursor-pointer" >
-                            {data.project_source}
+                            className="text-gradient-blue uppercase hover:cursor-pointer" >
+                            {projSources[data.source]}
                         </a>
                     </p>
 
