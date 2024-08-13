@@ -2,7 +2,7 @@
 export default function ExploreProjectCategories() {
     return (
         <>
-            <div className="w-full h-full flex justify-center">
+            <div className="w-full h-full hidden lg:flex justify-center">
                 <div className="relative w-full max-w-[1200px] h-96 flex justify-between rounded-lg bg-white border-white border-4 border-solid overflow-hidden">
 
                     <div className="relative w-2/5 h-full overflow-hidden">
