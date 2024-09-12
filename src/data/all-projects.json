@@ -59,7 +59,7 @@
         "name": "Arch Studio Multi-Page Website",
         "date": "April 24th, 2024",
         "project_status": "Completed",
-        "project_description": "",
+        "project_description": "Explore architectural designs with ease. Navigate through project galleries and detailed case studies in a clean, minimal layout. The site is fully responsive, ensuring a seamless experience across all devices. Smooth animations enhance the user experience, while the contact form allows for effortless inquiries. Perfectly designed for a modern architecture firm.",
         "completion_time_hours" : 9,
         "trial": 1,
         "source": 1,
@@ -101,7 +101,7 @@
             "num_2": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-inner-pages.jpg",
             "num_3": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-tablet-preview.jpg",
             "num_4": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/archstudiomultipagewebsite-mobile-preview.jpg",
-            "num_5": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/arch-studio-multi-page-website/"
+            "num_5": ""
         },
         "links": {
             "github_link": "https://github.com/Zy8712/arch-studio-website",
@@ -554,7 +554,7 @@
         "name": "Bryan's Projects Site V1",
         "date": "March 24th, 2024",
         "project_status": "Completed",
-        "project_description": "",
+        "project_description": "Browse through a collection of projects, ranging from completed to ongoing and upcoming ones. Most projects are sourced from Frontend Mentor, offering a diverse showcase of coding endeavors",
         "completion_time_hours" : 25,
         "trial": 0,
         "source": 0,
@@ -589,10 +589,10 @@
             "single_page": false,
             "components": false
         },
-        "site_icon": "",
+        "site_icon": "/icons/general-icons/difficulty-svgrepo-com.svg",
         "preview_image": "/project-previews/personal-project-previews/bryan-projects-site/bryansprojectssite-desktop-preview_1.jpg",
         "preview_images": {
-            "num_1": "",
+            "num_1": "/project-previews/personal-project-previews/bryan-projects-site/bryansprojectssite-desktop-preview_1.jpg",
             "num_2": "",
             "num_3": "",
             "num_4": "",
@@ -664,7 +664,7 @@
         "name": "REST Countries API with Colour Theme Switcher",
         "date": "February 4th, 2024",
         "project_status": "Completed",
-        "project_description": "",
+        "project_description": "Easily browse country data with this app powered by the REST Countries API. Search and filter countries by region, and view detailed information on each. Switch between light and dark themes for a personalized viewing experience. Fully responsive, the app adapts smoothly to any device for hassle-free exploration.",
         "completion_time_hours" : 12,
         "trial": 1,
         "source": 1,
@@ -884,7 +884,7 @@
         "name": "NextJS Tutorial Dashboard",
         "date": "December 28th, 2023",
         "project_status": "Completed",
-        "project_description": "",
+        "project_description": "Efficiently manage data with this interactive dashboard built using Next.js. The dashboard offers real-time updates, dynamic content loading, and seamless navigation between pages. Fully responsive, it adapts to any device, ensuring a smooth user experience. Perfect for tracking key metrics and insights at a glance.",
         "completion_time_hours" : 10,
         "trial": 1,
         "source": 0,
@@ -919,10 +919,10 @@
             "single_page": false,
             "components": false
         },
-        "site_icon": "/icons/language-icons/nextjs-fill-svgrepo-com.svg",
+        "site_icon": "/icons/language-icons/nextjs-black-fill-svgrepo-com.svg",
         "preview_image": "/project-previews/personal-project-previews/nextjsdashboard-desktop-preview.jpg",
         "preview_images": {
-            "num_1": "",
+            "num_1": "/project-previews/personal-project-previews/nextjsdashboard-desktop-preview.jpg",
             "num_2": "",
             "num_3": "",
             "num_4": "",
@@ -1819,7 +1819,7 @@
         "name": "Rock, Paper, Scissors Game",
         "date": "August 11th, 2023",
         "project_status": "Completed",
-        "project_description": "",
+        "project_description": "Challenge yourself with this interactive game of Rock Paper Scissors. Play against the computer and track your score in real-time. The game features smooth animations and responsive design for an engaging experience across all devices. Enjoy a quick and fun test of strategy!",
         "completion_time_hours" : 6.5,
         "trial": 1,
         "source": 1,
@@ -1857,9 +1857,9 @@
         "site_icon": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rock-paper-scissors-logo.png",
         "preview_image": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-desktop-preview.jpg",
         "preview_images": {
-            "num_1": "",
-            "num_2": "",
-            "num_3": "",
+            "num_1": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-desktop-preview.jpg",
+            "num_2": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-bonus-design.jpg",
+            "num_3": "/project-previews/frontend-mentor-project-previews/fem-advanced-previews/rock-paper-scissors-game/rockpaperscissorsgame-mobile-preview.jpg",
             "num_4": "",
             "num_5": ""
         },
